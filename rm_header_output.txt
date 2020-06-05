@@ -1,0 +1,1165 @@
+>ltr-1_family-1#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 124 ]
+>ltr-1_family-2#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 550 ]
+>ltr-1_family-11#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 50 ]
+>ltr-1_family-101#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 3 ]
+>ltr-1_family-102#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-103#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-104#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-105#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 7 ]
+>ltr-1_family-106#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-107#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-108#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-109#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-110#LINE/Penelope [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-12#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 15 ]
+>ltr-1_family-111#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 5 ]
+>ltr-1_family-112#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-113#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-114#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 10 ]
+>ltr-1_family-115#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-116#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-117#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-118#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-119#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-120#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-13#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 14 ]
+>ltr-1_family-121#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-122#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-123#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-124#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-125#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-126#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-127#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-128#LINE/RTE-BovB [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-129#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-130#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-14#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 11 ]
+>ltr-1_family-131#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-132#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-133#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 3 ]
+>ltr-1_family-134#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-135#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-136#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-137#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-138#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-139#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-140#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-15#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-141#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-142#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-143#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-144#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-145#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-146#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-147#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-148#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-149#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-150#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-16#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 11 ]
+>ltr-1_family-151#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-152#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-153#LINE/CR1 [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-154#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-155#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-156#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-157#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-158#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-159#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-160#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-17#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-161#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-162#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-163#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-164#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-165#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-166#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-167#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-168#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-169#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-170#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-18#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 76 ]
+>ltr-1_family-171#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-172#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-173#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-174#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-175#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-176#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-177#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-178#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-19#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 26 ]
+>ltr-1_family-20#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 34 ]
+>ltr-1_family-3#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 86 ]
+>ltr-1_family-21#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 17 ]
+>ltr-1_family-22#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 24 ]
+>ltr-1_family-23#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 18 ]
+>ltr-1_family-24#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 50 ]
+>ltr-1_family-25#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 7 ]
+>ltr-1_family-26#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 78 ]
+>ltr-1_family-27#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 17 ]
+>ltr-1_family-28#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 39 ]
+>ltr-1_family-29#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 19 ]
+>ltr-1_family-30#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 92 ]
+>ltr-1_family-4#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 51 ]
+>ltr-1_family-31#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 39 ]
+>ltr-1_family-32#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 26 ]
+>ltr-1_family-33#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 15 ]
+>ltr-1_family-34#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 376 ]
+>ltr-1_family-35#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 24 ]
+>ltr-1_family-36#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 30 ]
+>ltr-1_family-37#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 15 ]
+>ltr-1_family-38#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 18 ]
+>ltr-1_family-39#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 9 ]
+>ltr-1_family-40#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 24 ]
+>ltr-1_family-5#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 75 ]
+>ltr-1_family-41#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 8 ]
+>ltr-1_family-42#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 14 ]
+>ltr-1_family-43#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 5 ]
+>ltr-1_family-44#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 16 ]
+>ltr-1_family-45#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-46#LTR/Pao [ Type=LTR, Final Multiple Alignment Size = 41 ]
+>ltr-1_family-47#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-48#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 37 ]
+>ltr-1_family-49#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-50#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 6 ]
+>ltr-1_family-6#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 18 ]
+>ltr-1_family-51#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 18 ]
+>ltr-1_family-52#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-53#LINE/RTE-BovB [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-54#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 10 ]
+>ltr-1_family-55#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 5 ]
+>ltr-1_family-56#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-57#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 30 ]
+>ltr-1_family-58#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 24 ]
+>ltr-1_family-59#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 14 ]
+>ltr-1_family-60#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 10 ]
+>ltr-1_family-7#LTR/Gypsy [ Type=LTR, Final Multiple Alignment Size = 102 ]
+>ltr-1_family-61#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 5 ]
+>ltr-1_family-62#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-63#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-64#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-65#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-66#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 8 ]
+>ltr-1_family-67#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 9 ]
+>ltr-1_family-68#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 21 ]
+>ltr-1_family-69#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 9 ]
+>ltr-1_family-70#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 21 ]
+>ltr-1_family-8#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 49 ]
+>ltr-1_family-71#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-72#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-73#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-74#LINE/Penelope [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-75#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-76#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-77#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 6 ]
+>ltr-1_family-78#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 3 ]
+>ltr-1_family-79#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 8 ]
+>ltr-1_family-80#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 4 ]
+>ltr-1_family-9#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 22 ]
+>ltr-1_family-81#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 10 ]
+>ltr-1_family-82#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-83#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 3 ]
+>ltr-1_family-84#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 11 ]
+>ltr-1_family-85#LINE/RTE-BovB [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-86#LINE/RTE-BovB [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-87#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-88#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-89#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-90#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-10#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 11 ]
+>ltr-1_family-91#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-92#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-93#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-94#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-95#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-96#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 2 ]
+>ltr-1_family-97#LTR/Pao [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-98#LTR/Gypsy [ Type=INT, Final Multiple Alignment Size = 1 ]
+>ltr-1_family-99#LTR/Unknown [ Type=LTR, Final Multiple Alignment Size = 6 ]
+>ltr-1_family-100#LTR/Unknown [ Type=INT, Final Multiple Alignment Size = 3 ]
+>rnd-1_family-118#Unknown ( RepeatScout Family Size = 675, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-72 ]
+>rnd-1_family-74#Unknown ( RepeatScout Family Size = 1635, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-132#Unknown ( RepeatScout Family Size = 585, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-68#Unknown ( RepeatScout Family Size = 1923, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-1007 ]
+>rnd-1_family-215#Unknown ( RepeatScout Family Size = 268, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-217#Unknown ( RepeatScout Family Size = 265, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-1_family-176#Unknown ( RepeatScout Family Size = 395, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-436 ]
+>rnd-1_family-20#Unknown ( RepeatScout Family Size = 7121, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-179#LINE/CR1 ( RepeatScout Family Size = 383, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-19#Unknown ( RepeatScout Family Size = 7319, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-223#LINE/CR1 ( RepeatScout Family Size = 252, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-330 ]
+>rnd-1_family-216#Unknown ( RepeatScout Family Size = 268, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-1#Unknown ( RepeatScout Family Size = 17083, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-26#LTR/Gypsy ( RepeatScout Family Size = 5162, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-306#Unknown ( RepeatScout Family Size = 109, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-285 ]
+>rnd-1_family-289#Unknown ( RepeatScout Family Size = 131, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-4079 ]
+>rnd-1_family-42#Unknown ( RepeatScout Family Size = 3569, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-33 ]
+>rnd-1_family-124#LINE/RTE-BovB ( RepeatScout Family Size = 630, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-264#Unknown ( RepeatScout Family Size = 179, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-173#LINE/CR1 ( RepeatScout Family Size = 400, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-225#LTR/Gypsy ( RepeatScout Family Size = 250, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-160 ]
+>rnd-1_family-290#LINE/Penelope ( RepeatScout Family Size = 131, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-67#Unknown ( RepeatScout Family Size = 2086, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-259#Unknown ( RepeatScout Family Size = 185, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-264 ]
+>rnd-1_family-111#Unknown ( RepeatScout Family Size = 760, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-82#LINE/RTE-BovB ( RepeatScout Family Size = 1293, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-145#LINE/Penelope ( RepeatScout Family Size = 514, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-848 ]
+>rnd-1_family-230#Unknown ( RepeatScout Family Size = 235, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-581 ]
+>rnd-1_family-237#Unknown ( RepeatScout Family Size = 228, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-257 ]
+>rnd-1_family-98#Unknown ( RepeatScout Family Size = 1046, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-201#Unknown ( RepeatScout Family Size = 298, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-195 ]
+>rnd-1_family-172#LINE/CR1 ( RepeatScout Family Size = 406, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-138 ]
+>rnd-1_family-294#LTR/Gypsy ( RepeatScout Family Size = 127, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-58#Unknown ( RepeatScout Family Size = 2399, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-332 ]
+>rnd-1_family-93#Unknown ( RepeatScout Family Size = 1133, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-21#Unknown ( RepeatScout Family Size = 7103, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-102#LINE/CR1 ( RepeatScout Family Size = 955, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-115 ]
+>rnd-1_family-180#Unknown ( RepeatScout Family Size = 383, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-198 ]
+>rnd-1_family-218#Unknown ( RepeatScout Family Size = 264, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-332 ]
+>rnd-1_family-85#LINE/RTE-BovB ( RepeatScout Family Size = 1202, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-113#LINE/Penelope ( RepeatScout Family Size = 711, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-116#LINE/CR1 ( RepeatScout Family Size = 689, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-300#Unknown ( RepeatScout Family Size = 118, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-219#Unknown ( RepeatScout Family Size = 260, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-1_family-257#Unknown ( RepeatScout Family Size = 187, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-137#Unknown ( RepeatScout Family Size = 567, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-130 ]
+>rnd-1_family-188#LINE/Penelope ( RepeatScout Family Size = 332, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-227#Unknown ( RepeatScout Family Size = 244, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-23#Unknown ( RepeatScout Family Size = 6704, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-115#LINE/CR1 ( RepeatScout Family Size = 696, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-69#Unknown ( RepeatScout Family Size = 1913, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-735 ]
+>rnd-1_family-167#LINE/RTE-BovB ( RepeatScout Family Size = 422, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-133#LINE/L2 ( RepeatScout Family Size = 584, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-100#Unknown ( RepeatScout Family Size = 1005, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-210#Unknown ( RepeatScout Family Size = 274, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-84#Unknown ( RepeatScout Family Size = 1207, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-165#LINE/CR1 ( RepeatScout Family Size = 440, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-179 ]
+>rnd-1_family-18#Unknown ( RepeatScout Family Size = 8074, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-78#LINE/RTE-BovB ( RepeatScout Family Size = 1428, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-185#Unknown ( RepeatScout Family Size = 372, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-175 ]
+>rnd-1_family-46#Unknown ( RepeatScout Family Size = 2818, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-65#Unknown ( RepeatScout Family Size = 2102, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-2457 ]
+>rnd-1_family-30#Unknown ( RepeatScout Family Size = 4445, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-101#Unknown ( RepeatScout Family Size = 979, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-189#LINE/Penelope ( RepeatScout Family Size = 324, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-152#Unknown ( RepeatScout Family Size = 487, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-132 ]
+>rnd-1_family-161#LINE/RTE-BovB ( RepeatScout Family Size = 447, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-245#LINE/Penelope ( RepeatScout Family Size = 214, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-260#Unknown ( RepeatScout Family Size = 185, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-120#Unknown ( RepeatScout Family Size = 667, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-113 ]
+>rnd-1_family-199#Unknown ( RepeatScout Family Size = 300, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-298#LINE/Penelope ( RepeatScout Family Size = 123, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-107#Unknown ( RepeatScout Family Size = 831, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-7112 ]
+>rnd-1_family-235#LINE/CR1 ( RepeatScout Family Size = 232, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-388 ]
+>rnd-1_family-311#Unknown ( RepeatScout Family Size = 101, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-285 ]
+>rnd-1_family-76#Unknown ( RepeatScout Family Size = 1493, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-150#LINE/RTE-BovB ( RepeatScout Family Size = 500, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-149#Unknown ( RepeatScout Family Size = 506, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1219 ]
+>rnd-1_family-243#LTR/Gypsy ( RepeatScout Family Size = 217, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-160 ]
+>rnd-1_family-39#Unknown ( RepeatScout Family Size = 3637, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-1_family-262#Unknown ( RepeatScout Family Size = 183, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-1007 ]
+>rnd-1_family-220#Unknown ( RepeatScout Family Size = 260, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-4#Unknown ( RepeatScout Family Size = 10809, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-227 ]
+>rnd-1_family-208#Unknown ( RepeatScout Family Size = 279, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-966 ]
+>rnd-1_family-244#Unknown ( RepeatScout Family Size = 217, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-200#LINE/CR1 ( RepeatScout Family Size = 300, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-388 ]
+>rnd-1_family-33#Unknown ( RepeatScout Family Size = 3917, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-181#Unknown ( RepeatScout Family Size = 380, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-132 ]
+>rnd-1_family-170#Unknown ( RepeatScout Family Size = 407, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-269#LTR/Gypsy ( RepeatScout Family Size = 161, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-77#Unknown ( RepeatScout Family Size = 1470, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-287#Unknown ( RepeatScout Family Size = 133, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-4079 ]
+>rnd-1_family-28#Unknown ( RepeatScout Family Size = 4724, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-199 ]
+>rnd-1_family-94#Unknown ( RepeatScout Family Size = 1114, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-90#Unknown ( RepeatScout Family Size = 1143, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-195#Unknown ( RepeatScout Family Size = 312, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-271#LINE/CR1 ( RepeatScout Family Size = 158, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-256 ]
+>rnd-1_family-66#Unknown ( RepeatScout Family Size = 2100, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-1_family-231#Unknown ( RepeatScout Family Size = 235, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-484 ]
+>rnd-1_family-29#LINE/RTE-BovB ( RepeatScout Family Size = 4543, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-136 ]
+>rnd-1_family-169#LINE/CR1 ( RepeatScout Family Size = 412, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-228#Unknown ( RepeatScout Family Size = 243, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-154#Unknown ( RepeatScout Family Size = 472, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-31 ]
+>rnd-1_family-62#LINE/RTE-BovB ( RepeatScout Family Size = 2306, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1857 ]
+>rnd-1_family-89#LINE/Penelope ( RepeatScout Family Size = 1160, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-57#Unknown ( RepeatScout Family Size = 2400, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-332 ]
+>rnd-1_family-35#Unknown ( RepeatScout Family Size = 3810, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-52#Unknown ( RepeatScout Family Size = 2540, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-121#LINE/Penelope ( RepeatScout Family Size = 665, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1165 ]
+>rnd-1_family-280#Unknown ( RepeatScout Family Size = 145, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-50#LINE/RTE-BovB ( RepeatScout Family Size = 2567, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-51#Unknown ( RepeatScout Family Size = 2566, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-149 ]
+>rnd-1_family-63#LINE/RTE-BovB ( RepeatScout Family Size = 2301, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-36#Unknown ( RepeatScout Family Size = 3781, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-97#Unknown ( RepeatScout Family Size = 1060, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-276#LINE/Penelope ( RepeatScout Family Size = 153, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-140#Unknown ( RepeatScout Family Size = 550, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-436 ]
+>rnd-1_family-278#Unknown ( RepeatScout Family Size = 148, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-268#Unknown ( RepeatScout Family Size = 172, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-149 ]
+>rnd-1_family-198#LTR/Gypsy ( RepeatScout Family Size = 302, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-302#Unknown ( RepeatScout Family Size = 116, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-285 ]
+>rnd-1_family-108#LINE/RTE-BovB ( RepeatScout Family Size = 827, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-117#Unknown ( RepeatScout Family Size = 677, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1667 ]
+>rnd-1_family-59#Unknown ( RepeatScout Family Size = 2398, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-192#LINE/RTE-BovB ( RepeatScout Family Size = 317, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-48#Unknown ( RepeatScout Family Size = 2711, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-31 ]
+>rnd-1_family-174#LINE/RTE-BovB ( RepeatScout Family Size = 400, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-10#Unknown ( RepeatScout Family Size = 9292, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-231 ]
+>rnd-1_family-288#LINE/CR1 ( RepeatScout Family Size = 132, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-197#LINE/Penelope ( RepeatScout Family Size = 303, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-158#LINE/Penelope ( RepeatScout Family Size = 455, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-22#Unknown ( RepeatScout Family Size = 7032, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-724 ]
+>rnd-1_family-110#Unknown ( RepeatScout Family Size = 771, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-149 ]
+>rnd-1_family-162#LINE/CR1 ( RepeatScout Family Size = 446, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-106#Unknown ( RepeatScout Family Size = 863, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-1 ]
+>rnd-1_family-37#Unknown ( RepeatScout Family Size = 3779, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-1_family-80#LINE/CR1 ( RepeatScout Family Size = 1393, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-168#Unknown ( RepeatScout Family Size = 415, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-132 ]
+>rnd-1_family-91#Unknown ( RepeatScout Family Size = 1143, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-202#Unknown ( RepeatScout Family Size = 290, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-848 ]
+>rnd-1_family-247#Unknown ( RepeatScout Family Size = 210, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-7004 ]
+>rnd-1_family-87#Unknown ( RepeatScout Family Size = 1183, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-550 ]
+>rnd-1_family-242#Unknown ( RepeatScout Family Size = 222, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-7004 ]
+>rnd-1_family-301#Unknown ( RepeatScout Family Size = 117, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-404 ]
+>rnd-1_family-285#Unknown ( RepeatScout Family Size = 134, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-160#LTR/Gypsy ( RepeatScout Family Size = 452, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-24#Unknown ( RepeatScout Family Size = 6561, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-550 ]
+>rnd-1_family-71#Unknown ( RepeatScout Family Size = 1863, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-56#Unknown ( RepeatScout Family Size = 2404, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-149 ]
+>rnd-1_family-27#Unknown ( RepeatScout Family Size = 4958, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-199 ]
+>rnd-1_family-155#LINE/RTE-BovB ( RepeatScout Family Size = 465, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-3596 ]
+>rnd-1_family-130#LINE/Penelope ( RepeatScout Family Size = 610, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-204#LINE/Penelope ( RepeatScout Family Size = 288, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-129#LINE/RTE-BovB ( RepeatScout Family Size = 611, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-138#LINE/CR1 ( RepeatScout Family Size = 558, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-256#LINE/CR1 ( RepeatScout Family Size = 189, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-254#Unknown ( RepeatScout Family Size = 192, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-151#LINE/RTE-BovB ( RepeatScout Family Size = 499, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-148#LINE/RTE-BovB ( RepeatScout Family Size = 507, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-3596 ]
+>rnd-1_family-38#Unknown ( RepeatScout Family Size = 3673, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-183#Unknown ( RepeatScout Family Size = 375, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-1_family-212#LINE/Penelope ( RepeatScout Family Size = 273, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-298 ]
+>rnd-1_family-156#Unknown ( RepeatScout Family Size = 459, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-250 ]
+>rnd-1_family-55#tRNA ( RepeatScout Family Size = 2437, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-213#LINE/CR1 ( RepeatScout Family Size = 272, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-173 ]
+>rnd-1_family-32#LINE/RTE-BovB ( RepeatScout Family Size = 4138, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-31#LINE/RTE-BovB ( RepeatScout Family Size = 4161, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-1_family-9#Unknown ( RepeatScout Family Size = 9380, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-26 ]
+>rnd-1_family-291#Unknown ( RepeatScout Family Size = 131, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-54#Unknown ( RepeatScout Family Size = 2528, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-293#LTR/Gypsy ( RepeatScout Family Size = 128, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-295 ]
+>rnd-1_family-88#LINE/RTE-BovB ( RepeatScout Family Size = 1173, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-295#LTR/Gypsy ( RepeatScout Family Size = 127, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-229#Unknown ( RepeatScout Family Size = 239, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-195 ]
+>rnd-1_family-310#Unknown ( RepeatScout Family Size = 102, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-72#Unknown ( RepeatScout Family Size = 1790, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-34#Unknown ( RepeatScout Family Size = 3841, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-704 ]
+>rnd-1_family-175#Unknown ( RepeatScout Family Size = 398, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-60#Unknown ( RepeatScout Family Size = 2397, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-332 ]
+>rnd-1_family-284#Unknown ( RepeatScout Family Size = 136, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-280 ]
+>rnd-1_family-194#Unknown ( RepeatScout Family Size = 313, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-17 ]
+>rnd-1_family-270#LINE/CR1 ( RepeatScout Family Size = 159, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-53#Unknown ( RepeatScout Family Size = 2530, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-379 ]
+>rnd-1_family-45#Unknown ( RepeatScout Family Size = 2824, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-1_family-258#DNA/CMC-EnSpm ( RepeatScout Family Size = 187, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-177#Unknown ( RepeatScout Family Size = 391, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-305#Unknown ( RepeatScout Family Size = 110, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-851 ]
+>rnd-1_family-283#Unknown ( RepeatScout Family Size = 138, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-64#LINE/RTE-BovB ( RepeatScout Family Size = 2286, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-227 ]
+>rnd-1_family-126#Unknown ( RepeatScout Family Size = 620, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs )
+>rnd-1_family-139#Unknown ( RepeatScout Family Size = 556, Final Multiple Alignment Size = 100, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-72 ]
+>rnd-1_family-40#tRNA ( RepeatScout Family Size = 3624, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-120 ]
+>rnd-1_family-187#Unknown ( RepeatScout Family Size = 352, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs )
+>rnd-1_family-249#Unknown ( RepeatScout Family Size = 207, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-436 ]
+>rnd-1_family-112#Unknown ( RepeatScout Family Size = 730, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs )
+>rnd-1_family-286#Unknown ( RepeatScout Family Size = 133, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs )
+>rnd-1_family-296#LINE/Penelope ( RepeatScout Family Size = 125, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-966 ]
+>rnd-1_family-309#LTR/Gypsy ( RepeatScout Family Size = 102, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs )
+>rnd-1_family-292#LINE/CR1 ( RepeatScout Family Size = 128, Final Multiple Alignment Size = 99, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-256 ]
+>rnd-1_family-303#Unknown ( RepeatScout Family Size = 114, Final Multiple Alignment Size = 98, Localized to 62 out of 66 contigs )
+>rnd-1_family-314#Unknown ( RepeatScout Family Size = 98, Final Multiple Alignment Size = 98, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-138 ]
+>rnd-1_family-203#LINE/CR1 ( RepeatScout Family Size = 289, Final Multiple Alignment Size = 97, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-1_family-79#Unknown ( RepeatScout Family Size = 1407, Final Multiple Alignment Size = 97, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-1007 ]
+>rnd-1_family-125#Unknown ( RepeatScout Family Size = 624, Final Multiple Alignment Size = 97, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-101 ]
+>rnd-1_family-316#Unknown ( RepeatScout Family Size = 96, Final Multiple Alignment Size = 96, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-320 ]
+>rnd-1_family-315#LINE/CR1 ( RepeatScout Family Size = 97, Final Multiple Alignment Size = 96, Localized to 62 out of 66 contigs )
+>rnd-1_family-49#LINE/RTE-BovB ( RepeatScout Family Size = 2696, Final Multiple Alignment Size = 95, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-211#LINE/CR1 ( RepeatScout Family Size = 274, Final Multiple Alignment Size = 95, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-1_family-5#LINE/RTE-BovB ( RepeatScout Family Size = 10692, Final Multiple Alignment Size = 95, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-1_family-317#LINE/Penelope ( RepeatScout Family Size = 96, Final Multiple Alignment Size = 95, Localized to 62 out of 66 contigs )
+>rnd-1_family-320#Unknown ( RepeatScout Family Size = 95, Final Multiple Alignment Size = 95, Localized to 62 out of 66 contigs )
+>rnd-1_family-104#LINE/CR1 ( RepeatScout Family Size = 920, Final Multiple Alignment Size = 94, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-138 ]
+>rnd-1_family-319#LINE/Penelope ( RepeatScout Family Size = 95, Final Multiple Alignment Size = 94, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-290 ]
+>rnd-1_family-321#Unknown ( RepeatScout Family Size = 94, Final Multiple Alignment Size = 94, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-26 ]
+>rnd-1_family-240#Unknown ( RepeatScout Family Size = 225, Final Multiple Alignment Size = 93, Localized to 62 out of 66 contigs )
+>rnd-1_family-304#Unknown ( RepeatScout Family Size = 110, Final Multiple Alignment Size = 92, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-173 ]
+>rnd-1_family-324#Unknown ( RepeatScout Family Size = 90, Final Multiple Alignment Size = 90, Localized to 62 out of 66 contigs )
+>rnd-1_family-325#Unknown ( RepeatScout Family Size = 90, Final Multiple Alignment Size = 90, Localized to 62 out of 66 contigs )
+>rnd-1_family-327#LINE/Penelope ( RepeatScout Family Size = 89, Final Multiple Alignment Size = 89, Localized to 62 out of 66 contigs )
+>rnd-1_family-328#Unknown ( RepeatScout Family Size = 88, Final Multiple Alignment Size = 88, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-310 ]
+>rnd-1_family-178#LINE/CR1 ( RepeatScout Family Size = 390, Final Multiple Alignment Size = 87, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-179 ]
+>rnd-1_family-274#LINE/CR1 ( RepeatScout Family Size = 153, Final Multiple Alignment Size = 86, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-1_family-193#LINE/CR1 ( RepeatScout Family Size = 314, Final Multiple Alignment Size = 86, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-138 ]
+>rnd-1_family-127#Unknown ( RepeatScout Family Size = 619, Final Multiple Alignment Size = 86, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-55 ]
+>rnd-1_family-330#Unknown ( RepeatScout Family Size = 84, Final Multiple Alignment Size = 84, Localized to 62 out of 66 contigs )
+>rnd-1_family-332#Unknown ( RepeatScout Family Size = 83, Final Multiple Alignment Size = 83, Localized to 62 out of 66 contigs )
+>rnd-1_family-281#Unknown ( RepeatScout Family Size = 140, Final Multiple Alignment Size = 81, Localized to 62 out of 66 contigs )
+>rnd-1_family-25#Unknown ( RepeatScout Family Size = 5337, Final Multiple Alignment Size = 80, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-1_family-335#LTR/Pao ( RepeatScout Family Size = 78, Final Multiple Alignment Size = 78, Localized to 62 out of 66 contigs )
+>rnd-1_family-336#Unknown ( RepeatScout Family Size = 78, Final Multiple Alignment Size = 77, Localized to 62 out of 66 contigs )
+>rnd-1_family-337#Unknown ( RepeatScout Family Size = 77, Final Multiple Alignment Size = 77, Localized to 62 out of 66 contigs )
+>rnd-1_family-339#Unknown ( RepeatScout Family Size = 73, Final Multiple Alignment Size = 73, Localized to 62 out of 66 contigs )
+>rnd-1_family-341#Unknown ( RepeatScout Family Size = 71, Final Multiple Alignment Size = 71, Localized to 62 out of 66 contigs )
+>rnd-1_family-342#Unknown ( RepeatScout Family Size = 70, Final Multiple Alignment Size = 70, Localized to 62 out of 66 contigs )
+>rnd-1_family-343#Unknown ( RepeatScout Family Size = 69, Final Multiple Alignment Size = 69, Localized to 62 out of 66 contigs )
+>rnd-1_family-344#LTR/Gypsy ( RepeatScout Family Size = 69, Final Multiple Alignment Size = 69, Localized to 62 out of 66 contigs )
+>rnd-1_family-346#Unknown ( RepeatScout Family Size = 68, Final Multiple Alignment Size = 68, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-76 ]
+>rnd-1_family-333#LTR/Gypsy ( RepeatScout Family Size = 80, Final Multiple Alignment Size = 67, Localized to 62 out of 66 contigs )
+>rnd-1_family-348#Unknown ( RepeatScout Family Size = 65, Final Multiple Alignment Size = 65, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-335 ]
+>rnd-1_family-307#LINE/CR1 ( RepeatScout Family Size = 109, Final Multiple Alignment Size = 65, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-270 ]
+>rnd-1_family-350#Unknown ( RepeatScout Family Size = 64, Final Multiple Alignment Size = 64, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-404 ]
+>rnd-1_family-351#Unknown ( RepeatScout Family Size = 63, Final Multiple Alignment Size = 63, Localized to 62 out of 66 contigs )
+>rnd-1_family-353#DNA/MULE-MuDR ( RepeatScout Family Size = 61, Final Multiple Alignment Size = 61, Localized to 62 out of 66 contigs )
+>rnd-1_family-354#LINE/Penelope ( RepeatScout Family Size = 61, Final Multiple Alignment Size = 59, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1165 ]
+>rnd-1_family-357#Unknown ( RepeatScout Family Size = 58, Final Multiple Alignment Size = 58, Localized to 62 out of 66 contigs )
+>rnd-1_family-356#Unknown ( RepeatScout Family Size = 58, Final Multiple Alignment Size = 57, Localized to 62 out of 66 contigs )
+>rnd-1_family-364#Unknown ( RepeatScout Family Size = 56, Final Multiple Alignment Size = 56, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-351 ]
+>rnd-1_family-361#LTR/Gypsy ( RepeatScout Family Size = 56, Final Multiple Alignment Size = 55, Localized to 62 out of 66 contigs )
+>rnd-1_family-366#Unknown ( RepeatScout Family Size = 55, Final Multiple Alignment Size = 55, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-565 ]
+>rnd-1_family-367#Unknown ( RepeatScout Family Size = 55, Final Multiple Alignment Size = 55, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-3_family-69 ]
+>rnd-1_family-371#LINE/CR1 ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 54, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-388 ]
+>rnd-1_family-373#Unknown ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 54, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-167 ]
+>rnd-1_family-374#Unknown ( RepeatScout Family Size = 53, Final Multiple Alignment Size = 53, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-565 ]
+>rnd-1_family-376#LINE/Penelope ( RepeatScout Family Size = 53, Final Multiple Alignment Size = 53, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-370 ]
+>rnd-1_family-369#Unknown ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 53, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-256 ]
+>rnd-1_family-370#LINE/Penelope ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 53, Localized to 62 out of 66 contigs )
+>rnd-1_family-368#Unknown ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 52, Localized to 62 out of 66 contigs )
+>rnd-1_family-377#Unknown ( RepeatScout Family Size = 53, Final Multiple Alignment Size = 52, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-330 ]
+>rnd-1_family-372#Unknown ( RepeatScout Family Size = 54, Final Multiple Alignment Size = 52, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-228 ]
+>rnd-1_family-359#LTR/Gypsy ( RepeatScout Family Size = 57, Final Multiple Alignment Size = 52, Localized to 62 out of 66 contigs )
+>rnd-1_family-365#LINE/Penelope ( RepeatScout Family Size = 56, Final Multiple Alignment Size = 52, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-189 ]
+>rnd-1_family-379#Unknown ( RepeatScout Family Size = 51, Final Multiple Alignment Size = 51, Localized to 62 out of 66 contigs )
+>rnd-1_family-380#Unknown ( RepeatScout Family Size = 51, Final Multiple Alignment Size = 51, Localized to 62 out of 66 contigs )
+>rnd-1_family-382#Unknown ( RepeatScout Family Size = 50, Final Multiple Alignment Size = 50, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-298 ]
+>rnd-1_family-384#Unknown ( RepeatScout Family Size = 49, Final Multiple Alignment Size = 49, Localized to 62 out of 66 contigs )
+>rnd-1_family-385#Unknown ( RepeatScout Family Size = 49, Final Multiple Alignment Size = 49, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-356 ]
+>rnd-1_family-386#Unknown ( RepeatScout Family Size = 49, Final Multiple Alignment Size = 49, Localized to 62 out of 66 contigs )
+>rnd-1_family-387#Unknown ( RepeatScout Family Size = 49, Final Multiple Alignment Size = 49, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-784 ]
+>rnd-1_family-389#Unknown ( RepeatScout Family Size = 48, Final Multiple Alignment Size = 48, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-17 ]
+>rnd-1_family-390#Unknown ( RepeatScout Family Size = 48, Final Multiple Alignment Size = 48, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-404 ]
+>rnd-1_family-391#Unknown ( RepeatScout Family Size = 47, Final Multiple Alignment Size = 47, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-784 ]
+>rnd-1_family-393#Unknown ( RepeatScout Family Size = 47, Final Multiple Alignment Size = 47, Localized to 62 out of 66 contigs )
+>rnd-1_family-394#Unknown ( RepeatScout Family Size = 47, Final Multiple Alignment Size = 47, Localized to 62 out of 66 contigs )
+>rnd-1_family-395#Unknown ( RepeatScout Family Size = 46, Final Multiple Alignment Size = 46, Localized to 62 out of 66 contigs )
+>rnd-1_family-392#tRNA ( RepeatScout Family Size = 47, Final Multiple Alignment Size = 46, Localized to 62 out of 66 contigs )
+>rnd-1_family-398#Unknown ( RepeatScout Family Size = 46, Final Multiple Alignment Size = 46, Localized to 62 out of 66 contigs )
+>rnd-1_family-400#Unknown ( RepeatScout Family Size = 45, Final Multiple Alignment Size = 45, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1752 ]
+>rnd-1_family-406#DNA/MULE-MuDR ( RepeatScout Family Size = 43, Final Multiple Alignment Size = 43, Localized to 62 out of 66 contigs )
+>rnd-1_family-409#Unknown ( RepeatScout Family Size = 42, Final Multiple Alignment Size = 42, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1752 ]
+>rnd-1_family-412#Unknown ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-413#LINE/Penelope ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-414#LTR/Gypsy ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-415#Unknown ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-416#Unknown ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-417#LTR/Gypsy ( RepeatScout Family Size = 41, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-198 ]
+>rnd-1_family-410#Unknown ( RepeatScout Family Size = 42, Final Multiple Alignment Size = 41, Localized to 62 out of 66 contigs )
+>rnd-1_family-418#Unknown ( RepeatScout Family Size = 40, Final Multiple Alignment Size = 40, Localized to 62 out of 66 contigs )
+>rnd-1_family-419#LTR/Gypsy ( RepeatScout Family Size = 39, Final Multiple Alignment Size = 39, Localized to 62 out of 66 contigs )
+>rnd-1_family-420#LTR/Gypsy ( RepeatScout Family Size = 39, Final Multiple Alignment Size = 39, Localized to 62 out of 66 contigs )
+>rnd-1_family-421#LTR/Gypsy ( RepeatScout Family Size = 39, Final Multiple Alignment Size = 39, Localized to 62 out of 66 contigs )
+>rnd-1_family-422#Unknown ( RepeatScout Family Size = 39, Final Multiple Alignment Size = 39, Localized to 62 out of 66 contigs )
+>rnd-1_family-423#Unknown ( RepeatScout Family Size = 38, Final Multiple Alignment Size = 38, Localized to 62 out of 66 contigs )
+>rnd-1_family-424#Unknown ( RepeatScout Family Size = 38, Final Multiple Alignment Size = 38, Localized to 62 out of 66 contigs )
+>rnd-1_family-404#Unknown ( RepeatScout Family Size = 43, Final Multiple Alignment Size = 38, Localized to 62 out of 66 contigs )
+>rnd-1_family-429#Unknown ( RepeatScout Family Size = 36, Final Multiple Alignment Size = 36, Localized to 62 out of 66 contigs )
+>rnd-1_family-430#LTR/Gypsy ( RepeatScout Family Size = 36, Final Multiple Alignment Size = 36, Localized to 62 out of 66 contigs )
+>rnd-1_family-431#Unknown ( RepeatScout Family Size = 36, Final Multiple Alignment Size = 36, Localized to 62 out of 66 contigs )
+>rnd-1_family-433#Unknown ( RepeatScout Family Size = 35, Final Multiple Alignment Size = 35, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-4_family-228 ]
+>rnd-1_family-436#Unknown ( RepeatScout Family Size = 33, Final Multiple Alignment Size = 33, Localized to 62 out of 66 contigs )
+>rnd-1_family-437#Unknown ( RepeatScout Family Size = 32, Final Multiple Alignment Size = 32, Localized to 62 out of 66 contigs )
+>rnd-1_family-439#LTR/Gypsy ( RepeatScout Family Size = 32, Final Multiple Alignment Size = 31, Localized to 62 out of 66 contigs )
+>rnd-1_family-441#Unknown ( RepeatScout Family Size = 30, Final Multiple Alignment Size = 30, Localized to 62 out of 66 contigs )
+>rnd-1_family-443#LTR/Gypsy ( RepeatScout Family Size = 30, Final Multiple Alignment Size = 30, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-419 ]
+>rnd-1_family-378#Unknown ( RepeatScout Family Size = 53, Final Multiple Alignment Size = 30, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-356 ]
+>rnd-1_family-444#Unknown ( RepeatScout Family Size = 30, Final Multiple Alignment Size = 30, Localized to 62 out of 66 contigs )
+>rnd-1_family-445#LINE/CR1 ( RepeatScout Family Size = 29, Final Multiple Alignment Size = 29, Localized to 62 out of 66 contigs )
+>rnd-1_family-446#Unknown ( RepeatScout Family Size = 29, Final Multiple Alignment Size = 29, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-356 ]
+>rnd-1_family-440#LTR/Gypsy ( RepeatScout Family Size = 30, Final Multiple Alignment Size = 29, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-359 ]
+>rnd-1_family-448#Unknown ( RepeatScout Family Size = 28, Final Multiple Alignment Size = 28, Localized to 62 out of 66 contigs )
+>rnd-1_family-449#Unknown ( RepeatScout Family Size = 28, Final Multiple Alignment Size = 28, Localized to 62 out of 66 contigs )
+>rnd-1_family-451#LINE/CR1 ( RepeatScout Family Size = 27, Final Multiple Alignment Size = 27, Localized to 62 out of 66 contigs )
+>rnd-1_family-452#Unknown ( RepeatScout Family Size = 26, Final Multiple Alignment Size = 26, Localized to 62 out of 66 contigs )
+>rnd-1_family-450#LTR/Gypsy ( RepeatScout Family Size = 27, Final Multiple Alignment Size = 26, Localized to 62 out of 66 contigs )
+>rnd-1_family-454#LTR/Gypsy ( RepeatScout Family Size = 25, Final Multiple Alignment Size = 25, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-344 ]
+>rnd-1_family-455#Unknown ( RepeatScout Family Size = 25, Final Multiple Alignment Size = 25, Localized to 62 out of 66 contigs )
+>rnd-1_family-456#Unknown ( RepeatScout Family Size = 25, Final Multiple Alignment Size = 25, Localized to 62 out of 66 contigs )
+>rnd-1_family-442#Unknown ( RepeatScout Family Size = 30, Final Multiple Alignment Size = 25, Localized to 62 out of 66 contigs )
+>rnd-1_family-457#Unknown ( RepeatScout Family Size = 25, Final Multiple Alignment Size = 25, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-310 ]
+>rnd-1_family-458#Unknown ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-351 ]
+>rnd-1_family-459#Unknown ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs )
+>rnd-1_family-460#Unknown ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-324 ]
+>rnd-1_family-461#LINE/CR1 ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs )
+>rnd-1_family-462#Unknown ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-1000 ]
+>rnd-1_family-463#Unknown ( RepeatScout Family Size = 24, Final Multiple Alignment Size = 24, Localized to 62 out of 66 contigs )
+>rnd-1_family-464#Unknown ( RepeatScout Family Size = 23, Final Multiple Alignment Size = 23, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-386 ]
+>rnd-1_family-465#LINE/Penelope ( RepeatScout Family Size = 23, Final Multiple Alignment Size = 23, Localized to 62 out of 66 contigs )
+>rnd-1_family-466#LINE/CR1 ( RepeatScout Family Size = 23, Final Multiple Alignment Size = 23, Localized to 62 out of 66 contigs )
+>rnd-1_family-467#LINE/CR1 ( RepeatScout Family Size = 23, Final Multiple Alignment Size = 23, Localized to 62 out of 66 contigs )
+>rnd-1_family-468#Unknown ( RepeatScout Family Size = 22, Final Multiple Alignment Size = 22, Localized to 62 out of 66 contigs )
+>rnd-1_family-469#Unknown ( RepeatScout Family Size = 22, Final Multiple Alignment Size = 22, Localized to 62 out of 66 contigs )
+>rnd-1_family-470#LINE/CR1 ( RepeatScout Family Size = 22, Final Multiple Alignment Size = 22, Localized to 62 out of 66 contigs )
+>rnd-1_family-471#Unknown ( RepeatScout Family Size = 22, Final Multiple Alignment Size = 22, Localized to 62 out of 66 contigs )
+>rnd-1_family-472#Unknown ( RepeatScout Family Size = 21, Final Multiple Alignment Size = 21, Localized to 62 out of 66 contigs )
+>rnd-1_family-473#Unknown ( RepeatScout Family Size = 21, Final Multiple Alignment Size = 21, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-384 ]
+>rnd-1_family-474#Unknown ( RepeatScout Family Size = 21, Final Multiple Alignment Size = 21, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-6_family-1219 ]
+>rnd-1_family-475#Unknown ( RepeatScout Family Size = 20, Final Multiple Alignment Size = 20, Localized to 62 out of 66 contigs )
+>rnd-1_family-476#Unknown ( RepeatScout Family Size = 20, Final Multiple Alignment Size = 20, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-5_family-2522 ]
+>rnd-1_family-477#Unknown ( RepeatScout Family Size = 19, Final Multiple Alignment Size = 19, Localized to 62 out of 66 contigs )
+>rnd-1_family-478#Unknown ( RepeatScout Family Size = 19, Final Multiple Alignment Size = 19, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-33 ]
+>rnd-1_family-479#Unknown ( RepeatScout Family Size = 19, Final Multiple Alignment Size = 19, Localized to 62 out of 66 contigs )
+>rnd-1_family-480#SINE? ( RepeatScout Family Size = 19, Final Multiple Alignment Size = 19, Localized to 62 out of 66 contigs )
+>rnd-1_family-481#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-482#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-483#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-484#DNA/CMC-EnSpm ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-485#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-487 ]
+>rnd-1_family-486#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-487#Unknown ( RepeatScout Family Size = 18, Final Multiple Alignment Size = 18, Localized to 62 out of 66 contigs )
+>rnd-1_family-488#Unknown ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs )
+>rnd-1_family-489#LINE/CR1 ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs )
+>rnd-1_family-490#LTR/Gypsy ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs )
+>rnd-1_family-491#LTR/Gypsy ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs )
+>rnd-1_family-493#Unknown ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs )
+>rnd-1_family-494#LTR/Gypsy ( RepeatScout Family Size = 17, Final Multiple Alignment Size = 17, Localized to 62 out of 66 contigs ) [ putative subfamily of rnd-1_family-421 ]
+>rnd-1_family-495#LTR/Gypsy ( RepeatScout Family Size = 16, Final Multiple Alignment Size = 16, Localized to 62 out of 66 contigs )
+>rnd-1_family-496#Unknown ( RepeatScout Family Size = 16, Final Multiple Alignment Size = 16, Localized to 62 out of 66 contigs )
+>rnd-1_family-497#Unknown ( RepeatScout Family Size = 16, Final Multiple Alignment Size = 16, Localized to 62 out of 66 contigs )
+>rnd-1_family-498#Unknown ( RepeatScout Family Size = 16, Final Multiple Alignment Size = 16, Localized to 62 out of 66 contigs )
+>rnd-2_family-60#LINE/RTE-BovB ( Recon Family Size = 48, Final Multiple Alignment Size = 47 ) [ putative subfamily of rnd-4_family-136 ]
+>rnd-2_family-223#Unknown ( Recon Family Size = 51, Final Multiple Alignment Size = 43 ) [ putative subfamily of rnd-3_family-149 ]
+>rnd-2_family-49#LINE/RTE-BovB ( Recon Family Size = 33, Final Multiple Alignment Size = 33 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-2_family-174#Simple_repeat ( Recon Family Size = 37, Final Multiple Alignment Size = 31 )
+>rnd-2_family-249#tRNA ( Recon Family Size = 29, Final Multiple Alignment Size = 29 )
+>rnd-2_family-41#LINE/RTE-BovB ( Recon Family Size = 27, Final Multiple Alignment Size = 25 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-2_family-4#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 25 ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-2_family-124#LINE/L2 ( Recon Family Size = 25, Final Multiple Alignment Size = 23 ) [ putative subfamily of rnd-1_family-133 ]
+>rnd-2_family-68#LINE/RTE-BovB ( Recon Family Size = 37, Final Multiple Alignment Size = 18 ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-3_family-3#Unknown ( Recon Family Size = 86, Final Multiple Alignment Size = 76 )
+>rnd-3_family-206#LINE/CR1 ( Recon Family Size = 62, Final Multiple Alignment Size = 44 ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-3_family-130#Unknown ( Recon Family Size = 42, Final Multiple Alignment Size = 37 ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-3_family-20#LINE/RTE-BovB ( Recon Family Size = 39, Final Multiple Alignment Size = 36 ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-3_family-878#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 28 )
+>rnd-3_family-149#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 28 )
+>rnd-3_family-829#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 27 )
+>rnd-3_family-7#LINE/RTE-BovB ( Recon Family Size = 26, Final Multiple Alignment Size = 26 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-3_family-109#LINE/L1 ( Recon Family Size = 24, Final Multiple Alignment Size = 22 ) [ putative subfamily of rnd-4_family-227 ]
+>rnd-3_family-31#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 21 )
+>rnd-3_family-195#LINE/CR1 ( Recon Family Size = 20, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-1_family-133 ]
+>rnd-3_family-922#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-3_family-354#LINE/RTE-BovB ( Recon Family Size = 21, Final Multiple Alignment Size = 19 ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-3_family-69#LINE/CR1 ( Recon Family Size = 21, Final Multiple Alignment Size = 19 )
+>rnd-3_family-414#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-3_family-409#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-3_family-323#DNA/Merlin ( Recon Family Size = 20, Final Multiple Alignment Size = 17 )
+>rnd-3_family-27#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-3_family-436#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-3_family-422#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-3_family-250#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-3_family-197#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 15 )
+>rnd-4_family-872#tRNA ( Recon Family Size = 116, Final Multiple Alignment Size = 89 )
+>rnd-4_family-66#Unknown ( Recon Family Size = 86, Final Multiple Alignment Size = 71 )
+>rnd-4_family-29#LINE/RTE-BovB ( Recon Family Size = 80, Final Multiple Alignment Size = 62 )
+>rnd-4_family-27#LINE/RTE-BovB ( Recon Family Size = 84, Final Multiple Alignment Size = 60 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-4_family-485#Unknown ( Recon Family Size = 54, Final Multiple Alignment Size = 53 ) [ putative subfamily of rnd-6_family-7128 ]
+>rnd-4_family-122#LINE/RTE-BovB ( Recon Family Size = 63, Final Multiple Alignment Size = 48 ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-4_family-2103#Simple_repeat ( Recon Family Size = 41, Final Multiple Alignment Size = 41 )
+>rnd-4_family-48#Unknown ( Recon Family Size = 49, Final Multiple Alignment Size = 40 )
+>rnd-4_family-64#LINE/Penelope ( Recon Family Size = 57, Final Multiple Alignment Size = 38 )
+>rnd-4_family-1146#tRNA ( Recon Family Size = 35, Final Multiple Alignment Size = 35 )
+>rnd-4_family-416#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 34 )
+>rnd-4_family-565#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 33 )
+>rnd-4_family-44#LINE/CR1 ( Recon Family Size = 35, Final Multiple Alignment Size = 31 ) [ putative subfamily of rnd-5_family-330 ]
+>rnd-4_family-230#LINE/CR1 ( Recon Family Size = 35, Final Multiple Alignment Size = 31 ) [ putative subfamily of rnd-1_family-133 ]
+>rnd-4_family-90#LINE/RTE-BovB ( Recon Family Size = 34, Final Multiple Alignment Size = 29 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-4_family-100#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 27 )
+>rnd-4_family-1258#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 27 )
+>rnd-4_family-417#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 26 )
+>rnd-4_family-76#LINE/CR1 ( Recon Family Size = 33, Final Multiple Alignment Size = 26 ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-4_family-36#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 26 )
+>rnd-4_family-1186#LINE/Penelope ( Recon Family Size = 26, Final Multiple Alignment Size = 25 )
+>rnd-4_family-523#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 25 )
+>rnd-4_family-614#LINE/CR1 ( Recon Family Size = 41, Final Multiple Alignment Size = 24 )
+>rnd-4_family-871#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-4_family-228#LINE/Penelope ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-4_family-227#LINE/RTE-BovB ( Recon Family Size = 26, Final Multiple Alignment Size = 23 )
+>rnd-4_family-190#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-4_family-617#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 22 )
+>rnd-4_family-253#LINE/RTE-BovB ( Recon Family Size = 21, Final Multiple Alignment Size = 21 ) [ putative subfamily of rnd-4_family-136 ]
+>rnd-4_family-136#LINE/RTE-BovB ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-4_family-2129#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-4_family-81#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-4_family-216#LINE/RTE-BovB ( Recon Family Size = 25, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-4_family-38#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 20 )
+>rnd-4_family-452#LINE/RTE-BovB ( Recon Family Size = 20, Final Multiple Alignment Size = 19 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-4_family-1007#LINE/Penelope ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-4_family-735#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 ) [ putative subfamily of rnd-6_family-7004 ]
+>rnd-4_family-462#LINE/Penelope ( Recon Family Size = 24, Final Multiple Alignment Size = 18 )
+>rnd-4_family-404#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 18 )
+>rnd-4_family-189#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-4_family-2524#SINE/Alu ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-4_family-767#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-4_family-610#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-4_family-120#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-4_family-1208#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-4_family-106#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-4_family-561#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-4_family-549#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-4_family-138#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 ) [ putative subfamily of rnd-5_family-484 ]
+>rnd-4_family-1527#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-4_family-704#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-4_family-1053#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-99#Unknown ( Recon Family Size = 199, Final Multiple Alignment Size = 198 )
+>rnd-5_family-2026#Unknown ( Recon Family Size = 132, Final Multiple Alignment Size = 131 )
+>rnd-5_family-293#Unknown ( Recon Family Size = 160, Final Multiple Alignment Size = 126 )
+>rnd-5_family-110#LINE/RTE-BovB ( Recon Family Size = 167, Final Multiple Alignment Size = 119 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-5_family-147#Unknown ( Recon Family Size = 106, Final Multiple Alignment Size = 105 )
+>rnd-5_family-113#Unknown ( Recon Family Size = 93, Final Multiple Alignment Size = 88 )
+>rnd-5_family-7#LINE/RTE-BovB ( Recon Family Size = 111, Final Multiple Alignment Size = 80 ) [ putative subfamily of rnd-4_family-136 ]
+>rnd-5_family-581#LINE/Penelope ( Recon Family Size = 79, Final Multiple Alignment Size = 72 )
+>rnd-5_family-38#LINE/CR1 ( Recon Family Size = 78, Final Multiple Alignment Size = 71 )
+>rnd-5_family-132#Unknown ( Recon Family Size = 76, Final Multiple Alignment Size = 70 )
+>rnd-5_family-3423#Unknown ( Recon Family Size = 69, Final Multiple Alignment Size = 69 )
+>rnd-5_family-215#Unknown ( Recon Family Size = 70, Final Multiple Alignment Size = 69 )
+>rnd-5_family-17#LINE/Penelope ( Recon Family Size = 152, Final Multiple Alignment Size = 68 )
+>rnd-5_family-7211#Unknown ( Recon Family Size = 67, Final Multiple Alignment Size = 67 )
+>rnd-5_family-41#Unknown ( Recon Family Size = 68, Final Multiple Alignment Size = 62 )
+>rnd-5_family-4899#Unknown ( Recon Family Size = 61, Final Multiple Alignment Size = 61 )
+>rnd-5_family-111#LINE/Penelope ( Recon Family Size = 80, Final Multiple Alignment Size = 60 )
+>rnd-5_family-1330#Unknown ( Recon Family Size = 76, Final Multiple Alignment Size = 60 ) [ putative subfamily of rnd-1_family-72 ]
+>rnd-5_family-66#LINE/RTE-BovB ( Recon Family Size = 74, Final Multiple Alignment Size = 60 )
+>rnd-5_family-224#LINE/CR1 ( Recon Family Size = 63, Final Multiple Alignment Size = 57 )
+>rnd-5_family-4038#Unknown ( Recon Family Size = 57, Final Multiple Alignment Size = 56 ) [ putative subfamily of rnd-6_family-7128 ]
+>rnd-5_family-1000#rRNA ( Recon Family Size = 56, Final Multiple Alignment Size = 55 )
+>rnd-5_family-118#DNA/Merlin ( Recon Family Size = 54, Final Multiple Alignment Size = 53 )
+>rnd-5_family-176#Unknown ( Recon Family Size = 55, Final Multiple Alignment Size = 53 )
+>rnd-5_family-74#LINE/CR1 ( Recon Family Size = 55, Final Multiple Alignment Size = 53 )
+>rnd-5_family-542#tRNA ( Recon Family Size = 51, Final Multiple Alignment Size = 51 )
+>rnd-5_family-1040#Unknown ( Recon Family Size = 52, Final Multiple Alignment Size = 49 ) [ putative subfamily of rnd-5_family-784 ]
+>rnd-5_family-42#Unknown ( Recon Family Size = 52, Final Multiple Alignment Size = 46 )
+>rnd-5_family-2449#Unknown ( Recon Family Size = 45, Final Multiple Alignment Size = 45 )
+>rnd-5_family-54#Unknown ( Recon Family Size = 45, Final Multiple Alignment Size = 43 )
+>rnd-5_family-168#LINE/CR1 ( Recon Family Size = 51, Final Multiple Alignment Size = 42 ) [ putative subfamily of rnd-1_family-116 ]
+>rnd-5_family-1490#Unknown ( Recon Family Size = 42, Final Multiple Alignment Size = 42 )
+>rnd-5_family-128#Unknown ( Recon Family Size = 54, Final Multiple Alignment Size = 42 ) [ putative subfamily of rnd-6_family-1035 ]
+>rnd-5_family-251#Unknown ( Recon Family Size = 41, Final Multiple Alignment Size = 40 )
+>rnd-5_family-6685#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 39 )
+>rnd-5_family-116#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 39 )
+>rnd-5_family-121#Unknown ( Recon Family Size = 45, Final Multiple Alignment Size = 39 )
+>rnd-5_family-1839#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 39 ) [ putative subfamily of rnd-5_family-368 ]
+>rnd-5_family-70#LINE/Penelope ( Recon Family Size = 47, Final Multiple Alignment Size = 37 )
+>rnd-5_family-141#RC/Helitron ( Recon Family Size = 44, Final Multiple Alignment Size = 37 )
+>rnd-5_family-227#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 37 )
+>rnd-5_family-167#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 36 )
+>rnd-5_family-552#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 35 )
+>rnd-5_family-1737#Unknown ( Recon Family Size = 34, Final Multiple Alignment Size = 34 )
+>rnd-5_family-784#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 34 )
+>rnd-5_family-1581#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 34 )
+>rnd-5_family-5022#Unknown ( Recon Family Size = 34, Final Multiple Alignment Size = 34 )
+>rnd-5_family-436#LINE/Penelope ( Recon Family Size = 42, Final Multiple Alignment Size = 34 )
+>rnd-5_family-973#Unknown ( Recon Family Size = 34, Final Multiple Alignment Size = 33 )
+>rnd-5_family-2812#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 32 )
+>rnd-5_family-762#LINE/CR1 ( Recon Family Size = 34, Final Multiple Alignment Size = 32 ) [ putative subfamily of rnd-1_family-133 ]
+>rnd-5_family-5310#LINE/L1 ( Recon Family Size = 32, Final Multiple Alignment Size = 32 )
+>rnd-5_family-97#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 31 )
+>rnd-5_family-4861#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 31 )
+>rnd-5_family-3284#Unknown ( Recon Family Size = 46, Final Multiple Alignment Size = 31 )
+>rnd-5_family-547#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 31 )
+>rnd-5_family-1840#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 31 )
+>rnd-5_family-2048#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 31 )
+>rnd-5_family-864#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 30 )
+>rnd-5_family-1549#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 30 )
+>rnd-5_family-989#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 30 )
+>rnd-5_family-489#tRNA ( Recon Family Size = 34, Final Multiple Alignment Size = 30 )
+>rnd-5_family-1258#LTR/Gypsy ( Recon Family Size = 31, Final Multiple Alignment Size = 29 )
+>rnd-5_family-658#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 29 )
+>rnd-5_family-225#LINE/RTE-BovB ( Recon Family Size = 41, Final Multiple Alignment Size = 29 ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-5_family-401#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 29 )
+>rnd-5_family-994#snRNA ( Recon Family Size = 29, Final Multiple Alignment Size = 29 )
+>rnd-5_family-1712#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 28 )
+>rnd-5_family-966#LINE/Penelope ( Recon Family Size = 30, Final Multiple Alignment Size = 28 )
+>rnd-5_family-104#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 28 )
+>rnd-5_family-332#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 28 )
+>rnd-5_family-484#LINE/Penelope ( Recon Family Size = 34, Final Multiple Alignment Size = 28 )
+>rnd-5_family-584#LTR/Gypsy ( Recon Family Size = 35, Final Multiple Alignment Size = 28 )
+>rnd-5_family-6878#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 27 )
+>rnd-5_family-1498#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 27 ) [ putative subfamily of rnd-4_family-2129 ]
+>rnd-5_family-1843#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 26 )
+>rnd-5_family-2885#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-5_family-114#DNA/MULE-MuDR ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-5_family-550#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 25 )
+>rnd-5_family-2410#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-5_family-1527#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-5_family-738#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-5_family-793#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 24 )
+>rnd-5_family-328#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-5_family-134#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 24 )
+>rnd-5_family-452#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 24 )
+>rnd-5_family-152#DNA/MULE-MuDR ( Recon Family Size = 35, Final Multiple Alignment Size = 24 )
+>rnd-5_family-259#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 23 )
+>rnd-5_family-848#LINE ( Recon Family Size = 25, Final Multiple Alignment Size = 23 )
+>rnd-5_family-4#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 23 )
+>rnd-5_family-1393#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 23 )
+>rnd-5_family-56#LINE/RTE-BovB ( Recon Family Size = 23, Final Multiple Alignment Size = 23 ) [ putative subfamily of rnd-4_family-136 ]
+>rnd-5_family-1752#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 23 )
+>rnd-5_family-444#LTR/Gypsy ( Recon Family Size = 27, Final Multiple Alignment Size = 22 )
+>rnd-5_family-3650#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-5_family-2512#rRNA ( Recon Family Size = 24, Final Multiple Alignment Size = 22 )
+>rnd-5_family-598#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 22 )
+>rnd-5_family-153#tRNA ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-5_family-45#RC/Helitron ( Recon Family Size = 25, Final Multiple Alignment Size = 22 )
+>rnd-5_family-329#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 21 )
+>rnd-5_family-474#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 21 )
+>rnd-5_family-3874#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-5_family-560#LINE/Penelope ( Recon Family Size = 23, Final Multiple Alignment Size = 21 )
+>rnd-5_family-785#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 21 )
+>rnd-5_family-562#LINE/Penelope ( Recon Family Size = 33, Final Multiple Alignment Size = 21 )
+>rnd-5_family-540#LINE/CR1 ( Recon Family Size = 40, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-1_family-115 ]
+>rnd-5_family-150#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-5_family-386#DNA/MULE-MuDR ( Recon Family Size = 24, Final Multiple Alignment Size = 20 )
+>rnd-5_family-330#LINE/CR1 ( Recon Family Size = 23, Final Multiple Alignment Size = 20 )
+>rnd-5_family-368#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 20 )
+>rnd-5_family-1391#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 20 )
+>rnd-5_family-428#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 20 )
+>rnd-5_family-2025#LTR/Gypsy ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-5_family-2402#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-6_family-7004 ]
+>rnd-5_family-297#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-5_family-73#LINE ( Recon Family Size = 22, Final Multiple Alignment Size = 19 )
+>rnd-5_family-881#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-5_family-1862#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-5_family-1088#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-5_family-1183#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-5_family-4267#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-5_family-298#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-5_family-1681#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-5_family-13#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-5_family-92#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 19 )
+>rnd-5_family-1791#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-5_family-15#LINE/RTE-BovB ( Recon Family Size = 20, Final Multiple Alignment Size = 18 )
+>rnd-5_family-1128#LTR/Gypsy ( Recon Family Size = 21, Final Multiple Alignment Size = 18 )
+>rnd-5_family-2054#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-5_family-378#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-5_family-1552#LINE/Penelope ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-5_family-236#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 18 )
+>rnd-5_family-100#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-5_family-2486#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 18 )
+>rnd-5_family-1624#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-5_family-1059#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-5_family-3199#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-5_family-318#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-1774#snRNA ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-5_family-46#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-222#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-1775#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-146#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-5_family-87#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-1878#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-5_family-729#LTR/Gypsy ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-5_family-1002#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-5_family-993#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-5_family-3489#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 17 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-5_family-3115#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-5_family-976#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-5_family-303#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-5_family-2522#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-5_family-846#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-461#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 16 ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-5_family-1449#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-724#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-5_family-20#LINE ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-5_family-2027#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-83#LTR/Gypsy ( Recon Family Size = 31, Final Multiple Alignment Size = 16 )
+>rnd-5_family-821#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-199#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 16 )
+>rnd-5_family-4093#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-2749#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-5_family-239#LINE/Penelope ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-5_family-722#LINE/Penelope ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-5_family-2064#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
+>rnd-5_family-917#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
+>rnd-5_family-379#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 15 )
+>rnd-5_family-371#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-5_family-712#LINE/RTE-BovB ( Recon Family Size = 35, Final Multiple Alignment Size = 15 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-5_family-226#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-279#Unknown ( Recon Family Size = 205, Final Multiple Alignment Size = 166 )
+>rnd-6_family-388#LINE/CR1 ( Recon Family Size = 201, Final Multiple Alignment Size = 148 )
+>rnd-6_family-50#LINE/RTE-BovB ( Recon Family Size = 255, Final Multiple Alignment Size = 138 ) [ putative subfamily of rnd-1_family-32 ]
+>rnd-6_family-234#DNA/TcMar-Mariner ( Recon Family Size = 119, Final Multiple Alignment Size = 113 )
+>rnd-6_family-1459#LTR/Gypsy ( Recon Family Size = 129, Final Multiple Alignment Size = 102 )
+>rnd-6_family-359#Unknown ( Recon Family Size = 105, Final Multiple Alignment Size = 102 )
+>rnd-6_family-33#LINE/RTE-BovB ( Recon Family Size = 121, Final Multiple Alignment Size = 91 ) [ putative subfamily of rnd-6_family-5442 ]
+>rnd-6_family-3142#Unknown ( Recon Family Size = 88, Final Multiple Alignment Size = 88 )
+>rnd-6_family-49#LINE/RTE-BovB ( Recon Family Size = 167, Final Multiple Alignment Size = 87 ) [ putative subfamily of rnd-5_family-848 ]
+>rnd-6_family-806#Unknown ( Recon Family Size = 90, Final Multiple Alignment Size = 87 )
+>rnd-6_family-348#DNA/MULE-MuDR ( Recon Family Size = 114, Final Multiple Alignment Size = 87 )
+>rnd-6_family-418#Unknown ( Recon Family Size = 88, Final Multiple Alignment Size = 86 )
+>rnd-6_family-625#Unknown ( Recon Family Size = 101, Final Multiple Alignment Size = 82 )
+>rnd-6_family-271#Unknown ( Recon Family Size = 89, Final Multiple Alignment Size = 81 )
+>rnd-6_family-804#Unknown ( Recon Family Size = 81, Final Multiple Alignment Size = 81 )
+>rnd-6_family-642#LINE/CR1 ( Recon Family Size = 106, Final Multiple Alignment Size = 81 )
+>rnd-6_family-262#Unknown ( Recon Family Size = 94, Final Multiple Alignment Size = 74 )
+>rnd-6_family-623#LINE/CR1 ( Recon Family Size = 81, Final Multiple Alignment Size = 74 )
+>rnd-6_family-1858#Unknown ( Recon Family Size = 74, Final Multiple Alignment Size = 73 )
+>rnd-6_family-985#Unknown ( Recon Family Size = 77, Final Multiple Alignment Size = 73 )
+>rnd-6_family-264#Unknown ( Recon Family Size = 76, Final Multiple Alignment Size = 73 )
+>rnd-6_family-4804#Unknown ( Recon Family Size = 72, Final Multiple Alignment Size = 72 )
+>rnd-6_family-4147#Unknown ( Recon Family Size = 73, Final Multiple Alignment Size = 72 )
+>rnd-6_family-1926#Unknown ( Recon Family Size = 80, Final Multiple Alignment Size = 71 )
+>rnd-6_family-117#Unknown ( Recon Family Size = 75, Final Multiple Alignment Size = 69 )
+>rnd-6_family-125#Unknown ( Recon Family Size = 76, Final Multiple Alignment Size = 69 )
+>rnd-6_family-1760#LINE/Penelope ( Recon Family Size = 84, Final Multiple Alignment Size = 68 )
+>rnd-6_family-8345#Unknown ( Recon Family Size = 67, Final Multiple Alignment Size = 67 )
+>rnd-6_family-487#LINE/CR1 ( Recon Family Size = 82, Final Multiple Alignment Size = 67 ) [ putative subfamily of rnd-1_family-133 ]
+>rnd-6_family-1471#Unknown ( Recon Family Size = 77, Final Multiple Alignment Size = 66 )
+>rnd-6_family-375#DNA/TcMar-Mariner ( Recon Family Size = 78, Final Multiple Alignment Size = 65 )
+>rnd-6_family-1500#LINE/CR1 ( Recon Family Size = 82, Final Multiple Alignment Size = 65 )
+>rnd-6_family-1042#Unknown ( Recon Family Size = 77, Final Multiple Alignment Size = 65 )
+>rnd-6_family-10114#Unknown ( Recon Family Size = 63, Final Multiple Alignment Size = 63 )
+>rnd-6_family-276#Unknown ( Recon Family Size = 67, Final Multiple Alignment Size = 62 )
+>rnd-6_family-811#Unknown ( Recon Family Size = 71, Final Multiple Alignment Size = 62 )
+>rnd-6_family-292#Unknown ( Recon Family Size = 61, Final Multiple Alignment Size = 61 )
+>rnd-6_family-5553#Unknown ( Recon Family Size = 60, Final Multiple Alignment Size = 60 )
+>rnd-6_family-38#Unknown ( Recon Family Size = 66, Final Multiple Alignment Size = 60 )
+>rnd-6_family-1232#Unknown ( Recon Family Size = 68, Final Multiple Alignment Size = 59 )
+>rnd-6_family-9203#Unknown ( Recon Family Size = 58, Final Multiple Alignment Size = 58 )
+>rnd-6_family-1196#Unknown ( Recon Family Size = 70, Final Multiple Alignment Size = 57 )
+>rnd-6_family-3053#Unknown ( Recon Family Size = 57, Final Multiple Alignment Size = 56 )
+>rnd-6_family-1884#Unknown ( Recon Family Size = 59, Final Multiple Alignment Size = 56 )
+>rnd-6_family-621#DNA/CMC-EnSpm ( Recon Family Size = 56, Final Multiple Alignment Size = 55 )
+>rnd-6_family-417#DNA/CMC-EnSpm ( Recon Family Size = 67, Final Multiple Alignment Size = 54 )
+>rnd-6_family-1160#Unknown ( Recon Family Size = 54, Final Multiple Alignment Size = 54 )
+>rnd-6_family-1017#LTR/Gypsy ( Recon Family Size = 53, Final Multiple Alignment Size = 51 )
+>rnd-6_family-250#LINE/RTE-BovB ( Recon Family Size = 67, Final Multiple Alignment Size = 50 )
+>rnd-6_family-2195#Unknown ( Recon Family Size = 52, Final Multiple Alignment Size = 49 )
+>rnd-6_family-1013#Unknown ( Recon Family Size = 53, Final Multiple Alignment Size = 49 )
+>rnd-6_family-4945#Unknown ( Recon Family Size = 49, Final Multiple Alignment Size = 49 )
+>rnd-6_family-2683#Unknown ( Recon Family Size = 51, Final Multiple Alignment Size = 48 )
+>rnd-6_family-471#Unknown ( Recon Family Size = 48, Final Multiple Alignment Size = 48 )
+>rnd-6_family-1727#Unknown ( Recon Family Size = 47, Final Multiple Alignment Size = 47 )
+>rnd-6_family-102#Unknown ( Recon Family Size = 49, Final Multiple Alignment Size = 47 )
+>rnd-6_family-310#DNA/hAT-Charlie ( Recon Family Size = 46, Final Multiple Alignment Size = 46 )
+>rnd-6_family-687#Unknown ( Recon Family Size = 45, Final Multiple Alignment Size = 45 )
+>rnd-6_family-101#Unknown ( Recon Family Size = 46, Final Multiple Alignment Size = 44 )
+>rnd-6_family-1144#Unknown ( Recon Family Size = 49, Final Multiple Alignment Size = 44 )
+>rnd-6_family-2525#Unknown ( Recon Family Size = 57, Final Multiple Alignment Size = 44 )
+>rnd-6_family-181#Unknown ( Recon Family Size = 48, Final Multiple Alignment Size = 44 )
+>rnd-6_family-2774#Unknown ( Recon Family Size = 46, Final Multiple Alignment Size = 44 )
+>rnd-6_family-1882#Unknown ( Recon Family Size = 57, Final Multiple Alignment Size = 43 )
+>rnd-6_family-4558#Unknown ( Recon Family Size = 43, Final Multiple Alignment Size = 43 )
+>rnd-6_family-809#Unknown ( Recon Family Size = 43, Final Multiple Alignment Size = 43 )
+>rnd-6_family-130#Unknown ( Recon Family Size = 45, Final Multiple Alignment Size = 42 )
+>rnd-6_family-123#Unknown ( Recon Family Size = 43, Final Multiple Alignment Size = 42 )
+>rnd-6_family-5397#Unknown ( Recon Family Size = 44, Final Multiple Alignment Size = 41 )
+>rnd-6_family-4293#LINE/Penelope ( Recon Family Size = 44, Final Multiple Alignment Size = 41 )
+>rnd-6_family-851#LINE/Penelope ( Recon Family Size = 48, Final Multiple Alignment Size = 41 )
+>rnd-6_family-969#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 40 )
+>rnd-6_family-735#LINE/RTE-BovB ( Recon Family Size = 62, Final Multiple Alignment Size = 40 )
+>rnd-6_family-895#LTR/Gypsy ( Recon Family Size = 40, Final Multiple Alignment Size = 39 )
+>rnd-6_family-211#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 38 )
+>rnd-6_family-3859#Unknown ( Recon Family Size = 38, Final Multiple Alignment Size = 38 )
+>rnd-6_family-3858#Unknown ( Recon Family Size = 38, Final Multiple Alignment Size = 38 )
+>rnd-6_family-3809#Unknown ( Recon Family Size = 41, Final Multiple Alignment Size = 38 )
+>rnd-6_family-3066#Unknown ( Recon Family Size = 61, Final Multiple Alignment Size = 38 )
+>rnd-6_family-2410#Unknown ( Recon Family Size = 44, Final Multiple Alignment Size = 38 )
+>rnd-6_family-2264#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 37 )
+>rnd-6_family-1213#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 37 )
+>rnd-6_family-259#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 37 )
+>rnd-6_family-4644#Unknown ( Recon Family Size = 46, Final Multiple Alignment Size = 37 )
+>rnd-6_family-133#Unknown ( Recon Family Size = 38, Final Multiple Alignment Size = 37 )
+>rnd-6_family-1016#Unknown ( Recon Family Size = 36, Final Multiple Alignment Size = 36 )
+>rnd-6_family-2110#Unknown ( Recon Family Size = 36, Final Multiple Alignment Size = 36 )
+>rnd-6_family-1211#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 36 )
+>rnd-6_family-1219#Unknown ( Recon Family Size = 48, Final Multiple Alignment Size = 36 )
+>rnd-6_family-683#LINE/Penelope ( Recon Family Size = 46, Final Multiple Alignment Size = 35 )
+>rnd-6_family-492#LINE/CR1 ( Recon Family Size = 37, Final Multiple Alignment Size = 35 )
+>rnd-6_family-7611#Unknown ( Recon Family Size = 34, Final Multiple Alignment Size = 34 )
+>rnd-6_family-1354#LTR/Gypsy ( Recon Family Size = 35, Final Multiple Alignment Size = 34 )
+>rnd-6_family-253#Unknown ( Recon Family Size = 38, Final Multiple Alignment Size = 34 )
+>rnd-6_family-1004#Unknown ( Recon Family Size = 38, Final Multiple Alignment Size = 34 )
+>rnd-6_family-3957#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 34 )
+>rnd-6_family-6261#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 33 )
+>rnd-6_family-411#Unknown ( Recon Family Size = 48, Final Multiple Alignment Size = 33 )
+>rnd-6_family-6262#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 33 )
+>rnd-6_family-1212#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 33 )
+>rnd-6_family-5383#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 33 )
+>rnd-6_family-9871#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 32 )
+>rnd-6_family-2751#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 32 )
+>rnd-6_family-6828#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 32 )
+>rnd-6_family-513#LTR/Gypsy ( Recon Family Size = 40, Final Multiple Alignment Size = 32 )
+>rnd-6_family-1374#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 32 )
+>rnd-6_family-1380#Unknown ( Recon Family Size = 34, Final Multiple Alignment Size = 31 )
+>rnd-6_family-807#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 31 )
+>rnd-6_family-4284#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 31 )
+>rnd-6_family-1222#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 31 )
+>rnd-6_family-218#LINE/Penelope ( Recon Family Size = 37, Final Multiple Alignment Size = 31 )
+>rnd-6_family-3#Unknown ( Recon Family Size = 36, Final Multiple Alignment Size = 31 )
+>rnd-6_family-5#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 31 )
+>rnd-6_family-2353#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 31 )
+>rnd-6_family-1497#Unknown ( Recon Family Size = 37, Final Multiple Alignment Size = 30 )
+>rnd-6_family-1960#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 30 )
+>rnd-6_family-107#DNA/CMC-EnSpm ( Recon Family Size = 30, Final Multiple Alignment Size = 30 )
+>rnd-6_family-4403#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 30 )
+>rnd-6_family-1174#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 30 )
+>rnd-6_family-890#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 30 )
+>rnd-6_family-544#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 30 )
+>rnd-6_family-1452#Unknown ( Recon Family Size = 36, Final Multiple Alignment Size = 30 )
+>rnd-6_family-2105#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 29 )
+>rnd-6_family-848#LINE/Penelope ( Recon Family Size = 40, Final Multiple Alignment Size = 29 )
+>rnd-6_family-3857#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 29 )
+>rnd-6_family-6231#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 29 )
+>rnd-6_family-7659#tRNA ( Recon Family Size = 31, Final Multiple Alignment Size = 29 )
+>rnd-6_family-1840#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 29 )
+>rnd-6_family-1330#LTR/Gypsy ( Recon Family Size = 30, Final Multiple Alignment Size = 29 )
+>rnd-6_family-856#LINE/RTE-BovB ( Recon Family Size = 56, Final Multiple Alignment Size = 29 ) [ putative subfamily of rnd-5_family-66 ]
+>rnd-6_family-6104#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 29 )
+>rnd-6_family-2726#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 28 )
+>rnd-6_family-1878#Unknown ( Recon Family Size = 39, Final Multiple Alignment Size = 28 )
+>rnd-6_family-2793#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 28 )
+>rnd-6_family-3079#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 28 )
+>rnd-6_family-290#LINE/Penelope ( Recon Family Size = 29, Final Multiple Alignment Size = 28 )
+>rnd-6_family-4150#LINE/Penelope ( Recon Family Size = 28, Final Multiple Alignment Size = 28 )
+>rnd-6_family-1886#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 28 )
+>rnd-6_family-2518#LTR/Gypsy ( Recon Family Size = 30, Final Multiple Alignment Size = 28 )
+>rnd-6_family-112#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 28 )
+>rnd-6_family-624#Unknown ( Recon Family Size = 36, Final Multiple Alignment Size = 27 )
+>rnd-6_family-1437#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 27 )
+>rnd-6_family-2283#Unknown ( Recon Family Size = 30, Final Multiple Alignment Size = 27 )
+>rnd-6_family-5908#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 27 )
+>rnd-6_family-3120#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 27 )
+>rnd-6_family-1617#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 27 )
+>rnd-6_family-1838#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 27 )
+>rnd-6_family-1081#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 27 )
+>rnd-6_family-2633#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 27 )
+>rnd-6_family-1351#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 26 )
+>rnd-6_family-3886#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-1014#LTR/Gypsy ( Recon Family Size = 38, Final Multiple Alignment Size = 26 )
+>rnd-6_family-1419#DNA/Merlin ( Recon Family Size = 28, Final Multiple Alignment Size = 26 )
+>rnd-6_family-466#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-8512#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-5849#tRNA ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-5442#LINE/RTE-BovB ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-704#LINE/RTE-BovB ( Recon Family Size = 34, Final Multiple Alignment Size = 26 )
+>rnd-6_family-3265#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 26 )
+>rnd-6_family-2440#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 26 )
+>rnd-6_family-7004#Unknown ( Recon Family Size = 33, Final Multiple Alignment Size = 26 )
+>rnd-6_family-3956#DNA/MULE-MuDR ( Recon Family Size = 26, Final Multiple Alignment Size = 26 )
+>rnd-6_family-5168#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 25 )
+>rnd-6_family-191#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 25 )
+>rnd-6_family-1261#Unknown ( Recon Family Size = 35, Final Multiple Alignment Size = 25 )
+>rnd-6_family-12962#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 25 )
+>rnd-6_family-8717#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 25 )
+>rnd-6_family-1608#LTR/Gypsy ( Recon Family Size = 25, Final Multiple Alignment Size = 25 )
+>rnd-6_family-100#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 25 )
+>rnd-6_family-3691#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 25 )
+>rnd-6_family-2519#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 25 )
+>rnd-6_family-1185#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 25 )
+>rnd-6_family-7112#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-6_family-2145#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-6_family-9354#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-6_family-322#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-6_family-12966#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-6_family-3466#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 24 )
+>rnd-6_family-2985#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 24 )
+>rnd-6_family-3609#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 23 )
+>rnd-6_family-4079#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 23 )
+>rnd-6_family-4601#LINE/CR1 ( Recon Family Size = 23, Final Multiple Alignment Size = 23 )
+>rnd-6_family-61#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 23 )
+>rnd-6_family-11654#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 23 )
+>rnd-6_family-1732#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 23 )
+>rnd-6_family-1526#LINE/RTE-BovB ( Recon Family Size = 26, Final Multiple Alignment Size = 23 )
+>rnd-6_family-2715#tRNA ( Recon Family Size = 27, Final Multiple Alignment Size = 23 )
+>rnd-6_family-5241#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 23 )
+>rnd-6_family-1358#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 22 )
+>rnd-6_family-14119#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-3505#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 22 )
+>rnd-6_family-835#LTR/Pao ( Recon Family Size = 24, Final Multiple Alignment Size = 22 )
+>rnd-6_family-629#Unknown ( Recon Family Size = 25, Final Multiple Alignment Size = 22 )
+>rnd-6_family-1025#Unknown ( Recon Family Size = 32, Final Multiple Alignment Size = 22 ) [ putative subfamily of rnd-1_family-179 ]
+>rnd-6_family-3392#Unknown ( Recon Family Size = 40, Final Multiple Alignment Size = 22 ) [ putative subfamily of rnd-4_family-48 ]
+>rnd-6_family-365#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 22 )
+>rnd-6_family-16464#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-2829#LINE/Penelope ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-833#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-162#LINE/Penelope ( Recon Family Size = 67, Final Multiple Alignment Size = 22 )
+>rnd-6_family-4011#LINE/RTE-BovB ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-2953#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 22 )
+>rnd-6_family-3796#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 22 )
+>rnd-6_family-1176#Unknown ( Recon Family Size = 26, Final Multiple Alignment Size = 22 )
+>rnd-6_family-1475#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 21 )
+>rnd-6_family-5791#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 21 )
+>rnd-6_family-906#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-515#Unknown ( Recon Family Size = 29, Final Multiple Alignment Size = 21 )
+>rnd-6_family-1003#LINE/CR1 ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-174#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 21 )
+>rnd-6_family-1356#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 21 )
+>rnd-6_family-846#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-7690#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-6976#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 21 )
+>rnd-6_family-9322#snRNA ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-5557#Satellite ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-504#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 21 )
+>rnd-6_family-1018#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 ) [ putative subfamily of rnd-6_family-6827 ]
+>rnd-6_family-2605#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-496#DNA/Merlin ( Recon Family Size = 23, Final Multiple Alignment Size = 21 )
+>rnd-6_family-6693#tRNA ( Recon Family Size = 21, Final Multiple Alignment Size = 21 )
+>rnd-6_family-6577#Unknown ( Recon Family Size = 28, Final Multiple Alignment Size = 21 )
+>rnd-6_family-1345#LINE/I ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-192#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-7385#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-769#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-6_family-3078#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-6_family-1841#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-1493#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-6_family-1886 ]
+>rnd-6_family-1743#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 20 )
+>rnd-6_family-603#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-6_family-10740#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-6_family-826#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 20 )
+>rnd-6_family-3388#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 20 ) [ putative subfamily of rnd-1_family-285 ]
+>rnd-6_family-4746#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-2472#Unknown ( Recon Family Size = 27, Final Multiple Alignment Size = 20 )
+>rnd-6_family-931#Unknown ( Recon Family Size = 23, Final Multiple Alignment Size = 20 )
+>rnd-6_family-4886#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-304#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-5379#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-6827#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-266#Unknown ( Recon Family Size = 31, Final Multiple Alignment Size = 20 )
+>rnd-6_family-274#tRNA ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-758#LINE/RTE-BovB ( Recon Family Size = 24, Final Multiple Alignment Size = 20 )
+>rnd-6_family-6191#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-1153#LINE/Penelope ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-1836#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 20 )
+>rnd-6_family-7128#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 20 )
+>rnd-6_family-16953#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-6_family-6400#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-6_family-14#LINE/Penelope ( Recon Family Size = 21, Final Multiple Alignment Size = 19 ) [ putative subfamily of rnd-1_family-89 ]
+>rnd-6_family-2834#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 19 )
+>rnd-6_family-2214#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-6_family-728#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-6_family-7578#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-6_family-7394#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 19 )
+>rnd-6_family-8133#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 ) [ putative subfamily of rnd-4_family-2129 ]
+>rnd-6_family-1967#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 19 )
+>rnd-6_family-1366#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 19 )
+>rnd-6_family-2828#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 19 )
+>rnd-6_family-2881#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-6_family-1501#LINE/CR1 ( Recon Family Size = 19, Final Multiple Alignment Size = 19 )
+>rnd-6_family-1792#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3178#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-1494#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3404#LTR/Gypsy ( Recon Family Size = 23, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3472#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3885#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-2491#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-178#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-231#LINE/Penelope ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-1848#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-2608#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3914#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3473#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-1876#DNA/MULE-MuDR ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-13284#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-2241#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-120#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-1015#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-7717#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-2360#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-5827#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 18 )
+>rnd-6_family-4046#LINE ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-2756#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3456#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 18 )
+>rnd-6_family-11725#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 18 )
+>rnd-6_family-7404#Unknown ( Recon Family Size = 24, Final Multiple Alignment Size = 18 )
+>rnd-6_family-3230#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 18 )
+>rnd-6_family-469#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-4801#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-2457#LINE/RTE-BovB ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-3667#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 17 )
+>rnd-6_family-5436#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-7400#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-3335#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-2268#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 17 )
+>rnd-6_family-103#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-4381#Unknown ( Recon Family Size = 21, Final Multiple Alignment Size = 17 )
+>rnd-6_family-2277#LINE/Penelope ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-2295#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-1607#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-209#LINE/CR1 ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-6_family-9737#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-1148#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-2927#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 17 )
+>rnd-6_family-7877#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-137#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-3322#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-299#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-3255#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 17 )
+>rnd-6_family-6430#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-8916#LINE/R2 ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-1353#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 17 )
+>rnd-6_family-796#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-5615#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-3342#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-626#LTR/Pao ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1927#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1857#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-9739#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-10501#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-3074#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-2479#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-705#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-7694#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1348#LTR/Gypsy ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-2403#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 16 )
+>rnd-6_family-710#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-3415#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-4590#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-10341#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-7813#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-4080#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-4245#LTR/Gypsy ( Recon Family Size = 23, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1667#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1424#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-13126#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1561#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1832#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-4117#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-17588#tRNA ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-2040#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 16 )
+>rnd-6_family-171#DNA/Merlin ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-6587#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-8919#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1839#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-5465#LINE/Penelope ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-6240#Unknown ( Recon Family Size = 17, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1035#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-875#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 16 )
+>rnd-6_family-16752#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-1961#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 16 )
+>rnd-6_family-4961#LINE/CR1 ( Recon Family Size = 17, Final Multiple Alignment Size = 15 )
+>rnd-6_family-2951#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-3596#LINE/RTE-BovB ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-1165#LINE/Penelope ( Recon Family Size = 24, Final Multiple Alignment Size = 15 )
+>rnd-6_family-6352#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
+>rnd-6_family-1887#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-1502#LTR/Pao ( Recon Family Size = 23, Final Multiple Alignment Size = 15 )
+>rnd-6_family-293#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-2259#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 15 )
+>rnd-6_family-8#Unknown ( Recon Family Size = 22, Final Multiple Alignment Size = 15 )
+>rnd-6_family-884#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-1752#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-239#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
+>rnd-6_family-8689#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-6611#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-307#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
+>rnd-6_family-1803#Unknown ( Recon Family Size = 16, Final Multiple Alignment Size = 15 )
+>rnd-6_family-903#Unknown ( Recon Family Size = 20, Final Multiple Alignment Size = 15 )
+>rnd-6_family-473#LINE/RTE-BovB ( Recon Family Size = 18, Final Multiple Alignment Size = 15 )
+>rnd-6_family-5874#Unknown ( Recon Family Size = 18, Final Multiple Alignment Size = 15 ) [ putative subfamily of rnd-6_family-2195 ]
+>rnd-6_family-3590#Unknown ( Recon Family Size = 19, Final Multiple Alignment Size = 15 )
