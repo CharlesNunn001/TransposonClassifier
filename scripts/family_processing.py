@@ -46,6 +46,7 @@ class RGraphGen:
         for name, study in self.file_pairs.items():
             if study['location'] == None or study['families'] == None:
                 continue
+            name = name.split('\t')[0]
             df = pd.read_csv(f"{study['location']}/transposon_comparative.tsv", sep='\t')
             df['Order'].replace({'SINE?': 'SINE'}, inplace=True)
             classification = []
@@ -61,7 +62,7 @@ class RGraphGen:
             mp.pyplot.xlabel('off')
             mp.pyplot.axis('off')
             mp.pyplot.savefig(f"{study['location']}/pie.png")
-            mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_pie.png")
+            mp.pyplot.savefig(f"{self.main_directory}{study['type']}/{name}_pie.png")
             mp.pyplot.clf()
             mp.pyplot.close()
 
