@@ -50,6 +50,7 @@ class RGraphGen:
             df['Order'].replace({'SINE?': 'SINE'}, inplace=True)
             classification = []
             for index, row in df.iterrows():
+                print(row)
                 classification.append(class_list[row['Order']])
             df['Class'] = classification
             df = df.sort_values(by=['Class'])
