@@ -18,8 +18,8 @@ class RGraphGen:
     def navigate_file_structure(self):
         with open(self.studies, 'r') as std_file:
             for study in std_file:
-                path = '/'.join(((study.split(' ')[0]).split('_'))[0:3])
-                spec_type = study.split(' ')[1].replace('\n','')
+                path = '/'.join(((study.split('\t')[0]).split('_'))[0:3])
+                spec_type = study.split('\t')[1].replace('\n','')
                 RM_file = None
                 location = None
                 for root, dirs, files in os.walk(self.main_directory + '/' + path):
