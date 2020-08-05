@@ -62,6 +62,8 @@ class RGraphGen:
             mp.pyplot.axis('off')
             mp.pyplot.savefig(f"{study['location']}/pie.png")
             mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_pie.png")
+            mp.pyplot.clf()
+            mp.pyplot.close()
 
 
     def strip_fasta_files(self):
