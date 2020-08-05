@@ -40,7 +40,7 @@ class RGraphGen:
         class_list = {"DNA": "ClassII", "RNA": "ClassI", "LINE": "ClassI", "LTR": "ClassI", "RC": "ClassII",
                       "rRNA": "ncRNA",
                       "Satellite": "Other", "Simple_repeat": "Other", "SINE": "ClassI", "snRNA": "ncRNA",
-                      "tRNA": "ncRNA", "Unknown": "Other", 'Other': "Other"}
+                      "tRNA": "ncRNA", "Unknown": "Other", 'Other': "Other", 'ARTEFACT': "Other"}
         colours = ["#ba1a1a", "#b09f05", "#e8d956", "#f5e873", "#2d2d2e", "#5c5c5c", "#c4c4c4", "#193791",
                    "#385dc9"]
         for name, study in self.file_pairs.items():
@@ -62,7 +62,7 @@ class RGraphGen:
             mp.pyplot.xlabel('off')
             mp.pyplot.axis('off')
             mp.pyplot.savefig(f"{study['location']}/pie.png")
-            mp.pyplot.savefig(f"{self.main_directory}{study['type']}/{name}_pie.png")
+            mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_pie.png")
             mp.pyplot.clf()
             mp.pyplot.close()
 
