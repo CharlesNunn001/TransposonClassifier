@@ -40,7 +40,7 @@ class RGraphGen:
         class_list = {"DNA": "ClassII", "RNA": "ClassI", "LINE": "ClassI", "LTR": "ClassI", "RC": "ClassII",
                       "rRNA": "ncRNA",
                       "Satellite": "Other", "Simple_repeat": "Other", "SINE": "ClassI", "snRNA": "ncRNA",
-                      "tRNA": "ncRNA", "Unknown": "Other"}
+                      "tRNA": "ncRNA", "Unknown": "Other", 'Other': "Other"}
         colours = ["#ba1a1a", "#b09f05", "#e8d956", "#f5e873", "#2d2d2e", "#5c5c5c", "#c4c4c4", "#193791",
                    "#385dc9"]
         for name, study in self.file_pairs.items():
@@ -50,7 +50,6 @@ class RGraphGen:
             df['Order'].replace({'SINE?': 'SINE'}, inplace=True)
             classification = []
             for index, row in df.iterrows():
-                print(row)
                 classification.append(class_list[row['Order']])
             df['Class'] = classification
             df = df.sort_values(by=['Class'])
