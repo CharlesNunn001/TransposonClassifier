@@ -90,7 +90,7 @@ class RGraphGen:
         colours = []
         for feature in indexing:
             colours.append(class_colour[feature])
-        plot = ds.plot.bar(y='Class', color=colours, ax=ax1)
+        plot = ds.plot.bar(y='Class', color=colours)
         mp.pyplot.savefig(f"{study['location']}/bar.png")
         mp.pyplot.clf()
         mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_bar.png")
