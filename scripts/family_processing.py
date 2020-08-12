@@ -13,11 +13,12 @@ class RGraphGen:
         self.studies = args.input
         self.main_directory = args.dirpath
         self.file_pairs = {}
-        self.types = ['I', 'II', 'III', 'IV', 'V', 'Trematoda', 'Cestoda', 'Monogenea', 'Free-living-flatworm']
+        self.types = ['I', 'C', 'III', 'IV', 'V', 'Trematoda', 'Cestoda', 'Monogenea', 'Free-living-flatworm']
 
     def navigate_file_structure(self):
         with open(self.studies, 'r') as std_file:
             for study in std_file:
+                print(study)
                 path = '/'.join(((study.split('\t')[0]).split('_'))[0:3])
                 spec_type = study.split('\t')[1].replace('\n','')
                 RM_file = None
@@ -41,8 +42,6 @@ class RGraphGen:
                       "rRNA": "ncRNA",
                       "Satellite": "Other", "Simple_repeat": "Other", "SINE": "ClassI", "snRNA": "ncRNA",
                       "tRNA": "ncRNA", "Unknown": "Other", 'Other': "Other", 'ARTEFACT': "Other"}
-        colours = ["#ba1a1a", "#b09f05", "#e8d956", "#f5e873", "#2d2d2e", "#5c5c5c", "#c4c4c4", "#193791",
-                   "#385dc9"]
         for name, study in self.file_pairs.items():
             if study['location'] == None or study['families'] == None:
                 continue
@@ -53,25 +52,59 @@ class RGraphGen:
             for index, row in df.iterrows():
                 classification.append(class_list[row['Order']])
             df['Class'] = classification
-            df = df.sort_values(by=['Class'])
-            ds = df.groupby('Order').count()
-            plot = ds.plot.bar(y='Class', color=colours)
-            mp.pyplot.savefig(f"{study['location']}/bar.png")
-            mp.pyplot.clf()
-            mp.pyplot.close()
-            mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_bar.png")
-            mp.pyplot.clf()
-            mp.pyplot.close()
-            plot = ds.plot.pie(y='Class', figsize=(10, 10), autopct='%1.1f%%', startangle=90, colors=colours)
-            mp.pyplot.xlabel('off')
-            mp.pyplot.axis('off')
-            mp.pyplot.savefig(f"{study['location']}/pie.png")
-            mp.pyplot.clf()
-            mp.pyplot.close()
-            mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_pie.png")
-            mp.pyplot.clf()
-            mp.pyplot.close()
+            self.construct_main_graphs(df, name, study)
+            self.construct_subgraph_pages(df, study)
 
+    def construct_subgraph_pages(self, df, study):
+        colour = ["#ba1a1a", "#404040", "#193791", "#e64040", "#e6e6e6", "#6185f2", "#b09f05", "#5c5c5c", "#ccbb21", "#e8d956",
+                  "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e"]
+        fig_seg = df.groupby('Order').count()
+        orders = list(fig_seg.index)
+        cluster = mp.pyplot.figure()
+        for counter, order in enumerate(orders):
+            refined_df = df.loc[df['Order'] == order]
+            ds = refined_df.groupby('Superfamily').count()
+            ax = cluster.add_subplot(len(orders), 2, (1 + (2 * counter)))
+            plot = ds.plot.bar(y='Class', figsize=(10, 10), ax=ax, color=[colour[i] for i in range(len(orders)+1)])
+            ax.get_legend().remove()
+            ax = cluster.add_subplot(len(orders), 2, (2 + (2 * counter)))
+            plot = ds.plot.pie(y='Class', figsize=(15, 15), autopct='', startangle=90, ax=ax,
+                               labels=['' for i in range(len(orders)+1)], colors=[colour[i] for i in range(len(orders)+1)])
+            ax.get_legend().remove()
+            mp.pyplot.title(f'{order}')
+        mp.pyplot.tight_layout()
+        mp.pyplot.savefig(f"{study['location']}/detailed_plots.png")
+        mp.pyplot.clf()
+        mp.pyplot.close('all')
+
+
+    def construct_main_graphs(self, df, name, study):
+        class_colour = {"DNA": "#ba1a1a", "RC": "#e64040", "RNA": "#b09f05", "LINE": "#ccbb21", "LTR": "#e8d956",
+                        "SINE": "#f5e873",
+                        "rRNA": "#6185f2", "snRNA": "#193791", "tRNA": "#385dc9",
+                        "Satellite": "#c4c4c4", "Simple_repeat": "#2d2d2e",
+                        "Unknown": "#5c5c5c", 'Other': "#404040", 'ARTEFACT': "#e6e6e6"}
+        df = df.sort_values(by=['Class'])
+        ds = df.groupby('Order').count()
+        indexing = list(ds.index)
+        colours = []
+        for feature in indexing:
+            colours.append(class_colour[feature])
+        ax1 = cluster.add_subplot(1,2,1)
+        plot = ds.plot.bar(y='Class', color=colours, ax=ax1)
+        mp.pyplot.savefig(f"{study['location']}/bar.png")
+        mp.pyplot.clf()
+        mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_bar.png")
+        mp.pyplot.clf()
+        plot = ds.plot.pie(y='Class', figsize=(10, 10), autopct='', labels=['' for i in range(len(indexing)+1)],
+                           startangle=90, colors=colours)
+        mp.pyplot.xlabel('off')
+        mp.pyplot.axis('off')
+        mp.pyplot.savefig(f"{study['location']}/pie.png")
+        mp.pyplot.clf()
+        mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_pie.png")
+        mp.pyplot.clf()
+        mp.pyplot.close('all')
 
     def strip_fasta_files(self):
         for rmout_file in self.file_pairs.values():
