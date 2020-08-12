@@ -69,7 +69,7 @@ class RGraphGen:
             ax.get_legend().remove()
             ax = cluster.add_subplot(len(orders), 2, (2 + (2 * counter)))
             plot = ds.plot.pie(y='Class', figsize=(15, 15), autopct='', startangle=90, ax=ax,
-                               labels=['' for i in range(len(orders)+1)], colors=[colour[i] for i in range(len(orders)+1)])
+                               labels=['' for i in range(len(orders)+1)], colors=colour)
             ax.get_legend().remove()
             mp.pyplot.title(f'{order}')
         mp.pyplot.tight_layout()
