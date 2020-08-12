@@ -57,7 +57,8 @@ class RGraphGen:
 
     def construct_subgraph_pages(self, df, study):
         colour = ["#ba1a1a", "#404040", "#193791", "#e64040", "#e6e6e6", "#6185f2", "#b09f05", "#5c5c5c", "#ccbb21", "#e8d956",
-                  "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e"]
+                  "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e", "#ba1a1a", "#404040", "#193791", "#e64040", "#e6e6e6", "#6185f2",
+                  "#b09f05", "#5c5c5c", "#ccbb21", "#e8d956", "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e"]
         fig_seg = df.groupby('Order').count()
         orders = list(fig_seg.index)
         cluster = mp.pyplot.figure()
