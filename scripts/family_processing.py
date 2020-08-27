@@ -53,9 +53,9 @@ class RGraphGen:
                 classification.append(class_list[row['Order']])
             df['Class'] = classification
             self.construct_main_graphs(df, name, study)
-            self.construct_subgraph_pages(df, study)
+            self.construct_subgraph_pages(df, study, name)
 
-    def construct_subgraph_pages(self, df, study):
+    def construct_subgraph_pages(self, df, study, name):
         colour = ["#ba1a1a", "#404040", "#193791", "#e64040", "#e6e6e6", "#6185f2", "#b09f05", "#5c5c5c", "#ccbb21", "#e8d956",
                   "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e", "#ba1a1a", "#404040", "#193791", "#e64040", "#e6e6e6", "#6185f2",
                   "#b09f05", "#5c5c5c", "#ccbb21", "#e8d956", "#f5e873", "#385dc9", "#c4c4c4", "#2d2d2e"]
@@ -75,6 +75,7 @@ class RGraphGen:
             mp.pyplot.title(f'{order}')
         mp.pyplot.tight_layout()
         mp.pyplot.savefig(f"{study['location']}/detailed_plots.png")
+        mp.pyplot.savefig(f"{self.main_directory}/{study['type']}/{name}_detailed_plots.png")
         mp.pyplot.clf()
         mp.pyplot.close('all')
 
