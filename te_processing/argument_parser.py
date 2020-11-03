@@ -3,10 +3,11 @@ import argparse
 
 class ArgumentParser:
 
-    def __init__(self, setup=None, basic=None, study=None):
+    def __init__(self, setup=None, basic=None, study=None, compare=None):
         self.setup = setup
         self.basic = basic
         self.study = study
+        self.compare = compare
         self.parser = self._build_parser()
         pass
 
@@ -21,8 +22,15 @@ class ArgumentParser:
         subparsers = parser.add_subparsers(help='sub-command help')
         self._set_up_parser(subparsers.add_parser('setup', help='Sets up TSV for further steps'))
         self._basic_parser(subparsers.add_parser('build', help='Basic graphing on all data in species list'))
-        self._study_parser(subparsers.add_parser('study', help='Print the command to import the external data'))
+        self._study_parser(subparsers.add_parser('study', help='Examine specific groups of TEs in species'))
+        self._study_parser(subparsers.add_parser('compare', help='Compare pipeline outputs with benchmarked library'))
         return parser
+
+    def _masker_parser(self, compare):
+        compare.add_argument('-p', '--pipeline', required=True, help='The pipeline final library output')
+        compare.add_argument('-m', '--maskout', required=True, help='The output from RepeatMasker')
+        compare.add_argument('-o', '--output', required=True, help='Directory for output files and graphs file')
+        compare.set_defaults(execute=self.compare)
 
     def _study_parser(self, study):
         study.add_argument('-t', '--tetype', required=True, help='The transposable elements to be looked at')

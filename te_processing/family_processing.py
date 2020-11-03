@@ -15,22 +15,25 @@ class RGraphGen:
         self.types = ['I', 'C', 'III', 'IV', 'V', 'Trematoda', 'Cestoda', 'Monogenea', 'Free-living-flatworm']
 
     def navigate_file_structure(self):
+        print('Navigating...')
         with open(self.studies, 'r') as std_file:
             for study in std_file:
                 print(study)
                 path = '/'.join(((study.split('\t')[0]).split('_'))[0:3])
                 spec_type = study.split('\t')[1].replace('\n','')
+                print(path)
                 RM_file = None
                 location = None
                 for root, dirs, files in os.walk(self.main_directory + '/' + path):
                     for file in files:
-                        if re.search(f".*-families.fa", file):
+                        if re.search(f"transposon_comparative.tsv", file):
                             RM_file = root + '/' + file
                             location = root
                             break
                 self.file_pairs[study] = {'location': location, 'families': RM_file, 'type': spec_type}
 
     def process(self):
+        print('Processing...')
         class_list = {"DNA": "ClassII", "RNA": "ClassI", "LINE": "ClassI", "LTR": "ClassI", "RC": "ClassII",
                       "rRNA": "ncRNA",
                       "Satellite": "Other", "Simple_repeat": "Other", "SINE": "ClassI", "snRNA": "ncRNA",
@@ -45,6 +48,7 @@ class RGraphGen:
             for index, row in df.iterrows():
                 classification.append(class_list[row['Order']])
             df['Class'] = classification
+            print(f'Building {study} graphs...')
             self.construct_main_graphs(df, name, study)
             self.construct_subgraph_pages(df, study, name)
 
@@ -58,6 +62,7 @@ class RGraphGen:
         for counter, order in enumerate(orders):
             refined_df = df.loc[df['Order'] == order]
             ds = refined_df.groupby('Superfamily').count()
+            print(ds)
             if len(ds.index) == 1 and ds.index[0] == 'Unknown':
                 continue
             else:

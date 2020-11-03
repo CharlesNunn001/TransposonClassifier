@@ -6,6 +6,7 @@ from sys import argv
 from te_processing.argument_parser import ArgumentParser
 from te_processing.rmodeller_strip import dataframeManipulation
 from te_processing.family_processing import RGraphGen
+from te_processing.pipeline_management import PipelineEvaluation
 
 
 def develop(arguments: argparse.Namespace):
@@ -36,6 +37,13 @@ def basics(arguments: argparse.Namespace):
     processor.navigate_file_structure()
     processor.process()
 
+def compare(arguments: argparse.Namespace):
+    print('Pipe-out:', arguments.pipeline)
+    print('Mask-out', arguments.maskout)
+    print('Running family processing...')
+    processor = PipelineEvaluation(arguments.pipeline, arguments.maskout, arguments.output)
+    processor.gather_viable_alignments()
+
 
 def study(arguments: argparse.Namespace):
     print('TEType', arguments.tetype)
@@ -47,7 +55,7 @@ def study(arguments: argparse.Namespace):
     print('Output', arguments.output)
 
 
-parser = ArgumentParser(develop, basics, study)
+parser = ArgumentParser(develop, basics, study, compare)
 args = parser.parse(argv[1:])
 if args is not None and args.execute is not None:
     args.execute(args)
