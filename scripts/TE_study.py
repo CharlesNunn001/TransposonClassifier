@@ -41,8 +41,16 @@ def compare(arguments: argparse.Namespace):
     print('Pipe-out:', arguments.pipeline)
     print('Mask-out', arguments.maskout)
     print('Running family processing...')
-    processor = PipelineEvaluation(arguments.pipeline, arguments.maskout, arguments.output)
+    processor = PipelineEvaluation(arguments.pipeline, arguments.maskout, arguments.output, arguments.curation)
     processor.gather_viable_alignments()
+    processor.coverage_factors()
+    processor.formatted_printing()
+    processor.create_curated_list()
+    processor.isolate_returned_results()
+    missing = processor.find_missing_curations()
+    multi = processor.get_call_counts()
+    processor.make_comparisons()
+    processor.extra_data(missing, multi)
 
 
 def study(arguments: argparse.Namespace):

@@ -29,6 +29,7 @@ class ArgumentParser:
     def _masker_parser(self, compare):
         compare.add_argument('-p', '--pipeline', required=True, help='The pipeline final library output')
         compare.add_argument('-m', '--maskout', required=True, help='The output from RepeatMasker')
+        compare.add_argument('-c', '--curation', required=True, help='The curated library used for comparisons')
         compare.add_argument('-o', '--output', required=True, help='Directory for output files and graphs file')
         compare.set_defaults(execute=self.compare)
 

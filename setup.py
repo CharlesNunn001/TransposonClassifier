@@ -9,8 +9,8 @@ def read(fname):
 
 
 version = 'x.y.z'
-# if os.path.exists('VERSION'):
-#     version = open('VERSION').read().strip()
+if os.path.exists('VERSION'):
+    version = open('VERSION').read().strip()
 
 
 setup(
